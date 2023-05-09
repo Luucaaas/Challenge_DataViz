@@ -1,0 +1,5 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_2.0,Germany,2022-09-01 11:33:04,"I luv this ap, but the teleportation feture is what I'm really after.",3
+Web,Web_5.1,Germany,2022-09-01 18:12:34,"This app is terrible, it's not worth the time or effort to use it.",1
+iOS,iOS_2.0,Italy,2022-09-01 07:25:29,"This app is garbage, it doesn't work and it's poorly designed.",1
+iOS,iOS_2.0,Poland,2022-09-01 07:56:39,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

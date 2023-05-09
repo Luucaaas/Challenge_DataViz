@@ -1,0 +1,4 @@
+store,app_version,country,start_date,review,rate
+Android,Android_6.0.1,Spain,2022-10-28 18:59:57,"This app is terrible, it's not worth the time or effort to use it.",2
+Android,Android_6.0.1,Germany,2022-10-28 19:27:30,That's a realy fantstic mobile application.,3
+iOS,iOS_2.1,Poland,2022-10-28 08:09:35,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

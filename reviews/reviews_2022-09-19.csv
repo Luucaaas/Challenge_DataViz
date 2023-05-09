@@ -1,0 +1,4 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_2.1,Romania,2022-09-19 07:37:38,This app is really impressive.,4
+Android,Android_5.2,Poland,2022-09-19 19:15:20,"This ap is completly dysfuctional, it's not wrth the hasle.",2
+Android,Android_5.2,Poland,2022-09-19 07:36:47,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",3

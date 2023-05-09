@@ -1,0 +1,10 @@
+store,app_version,country,start_date,review,rate
+Web,Web_5.5,France,2023-01-05 11:21:48,What a fntastic mobile app!,5
+iOS,iOS_3.1,Romania,2023-01-05 11:29:16,This app is a complete mess.,2
+Android,Android_7.3,Spain,2023-01-05 07:59:14,This ap is a desaster.,3
+Android,Android_7.3,Germany,2023-01-05 07:42:11,Great App but I really want the teleportation feature as soon as possible,3
+Android,Android_7.3,Germany,2023-01-05 11:15:58,This is a top-nutch mobile app!,4
+Android,Android_7.3,Germany,2023-01-05 07:59:56,"This application is ok, but it could be improved with additional featurs.",3
+Web,Web_5.5,Poland,2023-01-05 07:28:30,What a remarkable mobile app!,5
+Android,Android_7.3,Poland,2023-01-05 08:34:20,What a remarkable mobile app!,5
+Web,Web_5.5,Poland,2023-01-05 12:24:06,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

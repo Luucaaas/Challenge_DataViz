@@ -1,0 +1,6 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_2.1,France,2022-10-12 07:25:43,"This app is a nitemare, it's unposible to use.",3
+Android,Android_5.2,France,2022-10-12 11:50:12,"What a waist of time, this app dosen't work at all.",1
+iOS,iOS_2.1,France,2022-10-12 07:36:11,"What a disappointment, this app doesn't do anything it promises.",1
+Android,Android_5.2,France,2022-10-12 11:58:02,"This app is completely useless, it doesn't work at all.",2
+Android,Android_5.2,Poland,2022-10-12 07:27:10,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

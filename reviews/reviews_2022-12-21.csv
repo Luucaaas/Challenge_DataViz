@@ -1,0 +1,7 @@
+store,app_version,country,start_date,review,rate
+Android,Android_7.0,Germany,2022-12-21 17:40:51,This app is trully remarkabel.,4
+iOS,iOS_3.1,Germany,2022-12-21 18:30:12,This app is a disaster.,1
+Android,Android_7.0,Germany,2022-12-21 12:15:01,"This app is garbage, it doesn't work and it's poorly designed.",1
+iOS,iOS_3.1,Germany,2022-12-21 10:23:29,"This appliaction is functional, but it's missng sum key featurs that wud make it exceptional.",1
+Android,Android_7.0,Italy,2022-12-21 11:41:27,That's an outstnding mobile application!,4
+Android,Android_7.0,Poland,2022-12-21 19:50:57,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

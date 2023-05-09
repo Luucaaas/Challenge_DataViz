@@ -1,0 +1,9 @@
+store,app_version,country,start_date,review,rate
+Android,Android_6.1,France,2022-12-04 11:23:38,That's an outsanding mobile application.,3
+iOS,iOS_3.1,France,2022-12-04 11:52:54,That's an oustanding mobile app.,5
+Web,Web_5.5,Spain,2022-12-04 11:55:50,What a remarcable mobile application.,5
+Web,Web_5.5,Spain,2022-12-04 11:31:07,That's an exceptional mobile app.,4
+Android,Android_6.1,Germany,2022-12-04 20:41:07,This is a top-notch mobile app.,5
+iOS,iOS_3.1,Italy,2022-12-04 17:58:36,"What a waste of time, this app doesn't work at all.",2
+iOS,iOS_3.1,Poland,2022-12-04 19:32:44,"This app is completely dysfunctional, it's not worth the hassle.",1
+Web,Web_5.5,Poland,2022-12-04 18:12:08,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

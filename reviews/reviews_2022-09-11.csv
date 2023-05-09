@@ -1,0 +1,6 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_2.1,Spain,2022-09-11 19:07:27,That mobilee ap is suprb.,5
+Web,Web_5.1,Germany,2022-09-11 19:54:46,"What a waste of time, this app doesn't work at all.",2
+Web,Web_5.1,Italy,2022-09-11 11:59:42,I can't believe how terrible this app is.,2
+iOS,iOS_2.1,Poland,2022-09-11 07:35:24,"While this app is practical, it could benefit from more features to make it more versatile.",4
+Web,Web_5.1,Poland,2022-09-11 11:14:29,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

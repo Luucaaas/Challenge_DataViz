@@ -1,0 +1,7 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_3.0,Germany,2022-11-21 19:36:28,"This application is functional, but it's missing some key features that would make it exceptional.",3
+iOS,iOS_3.0,Germany,2022-11-21 19:04:42,"This app has potential, but it's missing some featurs that would make it exceptional.",3
+Android,Android_6.0.1,Poland,2022-11-21 12:05:17,This app is simpely amezing.,3
+iOS,iOS_3.0,Poland,2022-11-21 08:06:43,"I'm a hug fan of this app, but I'm eagrely wating for the telportation feature to be aded.",3
+Android,Android_6.0.1,Poland,2022-11-21 07:24:49,"I'm impresed with this app, but the telportation feature is wht I'm most exitd about.",2
+Web,Web_5.4,Poland,2022-11-21 12:06:20,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

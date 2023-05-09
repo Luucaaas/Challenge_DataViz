@@ -1,0 +1,6 @@
+store,app_version,country,start_date,review,rate
+Web,Web_5.5,Germany,2022-12-20 12:27:25,This app is simply amazing.,5
+iOS,iOS_3.1,Italy,2022-12-20 19:56:34,That's a really fantastic mobile application.,5
+Android,Android_7.0,Poland,2022-12-20 07:14:56,"I'm extremely disatisfyed with this app, it's not functonel at all.",1
+iOS,iOS_3.1,Poland,2022-12-20 07:51:36,That's an excpcional mobile app!,3
+Web,Web_5.5,Poland,2022-12-20 08:30:42,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

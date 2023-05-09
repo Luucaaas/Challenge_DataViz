@@ -1,0 +1,16 @@
+store,app_version,country,start_date,review,rate
+Android,Android_5.1,France,2022-07-25 11:56:09,"This app is top-notch, but I'm eagerly awaiting the addition of the teleportation feature.",4
+Android,Android_5.1,France,2022-07-25 07:57:30,This app is realy impresive.,5
+Android,Android_5.1,Romania,2022-07-25 10:42:27,That's an excellent mobile application.,5
+Android,Android_5.1,Romania,2022-07-25 08:13:28,I can't seem to get the ap to work for me today.,2
+Web,Web_5.1,Romania,2022-07-25 17:19:13,The ap is not functionng for me today and I'm not sure why.,2
+Web,Web_5.1,Romania,2022-07-25 08:00:16,I cannot establish a connection with the app right now.,1
+Android,Android_5.1,Romania,2022-07-25 19:03:05,It's frustratng that I can't acces the ap right now.,2
+Android,Android_5.1,Romania,2022-07-25 18:14:54,I'm havng dificulty conecting to the app today.,2
+iOS,iOS_2.0,Romania,2022-07-25 07:59:37,The ap is not accesible to me today and it's anoying.,1
+Android,Android_5.1,Romania,2022-07-25 19:06:32,The ap is not respondng to my attempts to conect and it's irritatng.,1
+Android,Android_5.1,Romania,2022-07-25 19:06:37,I'm havng dificulty accesing the ap today and I need it to work.,1
+Android,Android_5.1,Romania,2022-07-25 08:04:48,It's frustratng that I can't acces the ap and I need it to work.,3
+iOS,iOS_2.0,Romania,2022-07-25 20:02:49,I can't seem to get the ap to work and I need it for work.,1
+Android,Android_5.1,Romania,2022-07-25 12:30:58,It's frustratng that I can't acces the ap right now.,1
+Android,Android_5.1,Poland,2022-07-25 20:23:08,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",3

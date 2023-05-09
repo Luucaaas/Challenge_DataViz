@@ -1,0 +1,10 @@
+store,app_version,country,start_date,review,rate
+Web,Web_5.5,France,2022-12-19 12:27:45,That mobile aplication is phenominal.,5
+Android,Android_7.0,Romania,2022-12-19 18:51:06,"This app is a joke, it doesn't even function properly.",1
+Android,Android_7.0,Spain,2022-12-19 07:34:11,"I'm impressed with this app, but the teleportation feature is what I'm most excited about.",4
+iOS,iOS_3.1,Czech Republic,2022-12-19 19:52:38,"Ths app is horriblle, it's not even worth downlooding.",1
+Android,Android_7.0,Germany,2022-12-19 20:47:51,"This app is terrible, it's not worth the time or effort to use it.",2
+Web,Web_5.5,Germany,2022-12-19 18:48:04,That mobile ap is phenominal.,5
+Web,Web_5.5,Poland,2022-12-19 11:53:21,This app is relly outstandig.,5
+iOS,iOS_3.1,Poland,2022-12-19 10:55:48,"This appliaction is functional, but it's missng sum key featurs that wud make it exceptional.",2
+Android,Android_7.0,Poland,2022-12-19 18:49:58,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",3

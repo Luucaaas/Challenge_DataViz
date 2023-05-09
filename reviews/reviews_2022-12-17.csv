@@ -1,0 +1,17 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_3.1,France,2022-12-17 19:09:19,"This application is usefl, but it lacks some key featurs that would make it excepcional.",3
+iOS,iOS_3.1,France,2022-12-17 07:51:14,I'v never seen an app as bad as this on.,5
+Android,Android_6.2,France,2022-12-17 11:40:31,"This app is helpful, but it's missing some key features.",3
+Android,Android_6.2,France,2022-12-17 18:44:40,This mobile app is truly outstanding.,4
+Web,Web_5.5,Spain,2022-12-17 11:27:35,"This appliaction is functional, but it's missng sum key featurs that wud make it exceptional.",4
+iOS,iOS_3.1,Spain,2022-12-17 13:03:47,"This app is compleetely usless, it dosent work at all.",2
+Android,Android_6.2,Spain,2022-12-17 19:46:44,"The app is helpful, bt it's missing sum key featurs that wuld make it more comprehensiv.",3
+Android,Android_6.2,Netherlands,2022-12-17 12:28:57,"Thi app is awesom, but I'm eagrely wating for the telportation feature.",3
+Android,Android_6.2,Germany,2022-12-17 12:04:29,"This app is decent, but it could use some additional features to make it better.",2
+Android,Android_6.2,Germany,2022-12-17 08:29:32,This is an eceptional mobile application.,5
+Android,Android_6.2,Italy,2022-12-17 08:11:44,"The app is handy, bt it could use more featurs to be more versatile.",3
+Android,Android_6.2,Italy,2022-12-17 13:03:53,"This app is a total failure, it doesn't do anything right.",2
+iOS,iOS_3.1,Poland,2022-12-17 18:37:57,This app is really impressive.,5
+Web,Web_5.5,Poland,2022-12-17 10:51:07,This app is realy outstending.,5
+iOS,iOS_3.1,Poland,2022-12-17 07:53:46,"This application has some value, but it could use some improvements.",2
+iOS,iOS_3.1,Poland,2022-12-17 11:26:31,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

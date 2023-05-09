@@ -1,0 +1,7 @@
+store,app_version,country,start_date,review,rate
+Web,Web_5.1,France,2022-07-30 08:10:16,"What a piece of junk, this app is completely broken.",1
+iOS,iOS_2.0,Netherlands,2022-07-30 08:03:18,This is an incredibly wel-designed mobile application.,5
+Android,Android_5.1,Germany,2022-07-30 12:36:47,This is an incredibly well-designed mobile application.,4
+Android,Android_5.1,Italy,2022-07-30 11:44:03,"The app is fantstic, but I'm eagrely antcipating the telportation feature.",5
+Web,Web_5.1,Poland,2022-07-30 12:16:13,"This app is a total failure, it doesn't do anything right.",4
+Web,Web_5.1,Poland,2022-07-30 20:24:34,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

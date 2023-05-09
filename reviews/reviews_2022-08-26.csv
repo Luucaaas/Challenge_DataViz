@@ -1,0 +1,11 @@
+store,app_version,country,start_date,review,rate
+Android,Android_5.1,France,2022-08-26 17:38:42,This app is a disaster.,3
+Android,Android_5.1,France,2022-08-26 11:27:04,This is an incredibly wel-designed mobile application.,5
+iOS,iOS_2.0,France,2022-08-26 08:07:06,"This app is garbage, it doesn't work and it's poorly designed.",1
+Android,Android_5.1,Romania,2022-08-26 12:37:43,"Wht a dsisaster, this app is comletely brokn.",1
+iOS,iOS_2.0,Spain,2022-08-26 18:29:53,"This app is a disaster, it's riddled with bugs and issues.",1
+Android,Android_5.1,Spain,2022-08-26 19:11:04,"This application is functional, but it's missing some key features that would make it exceptional.",2
+Android,Android_5.1,Germany,2022-08-26 11:43:41,"This application is usefl, but it lacks some key featurs that would make it excepcional.",3
+Android,Android_5.1,Italy,2022-08-26 19:09:59,"This app is completly useles, it doesn't work at all.",2
+iOS,iOS_2.0,Poland,2022-08-26 08:26:28,"What a waste of time, this app dosn't work at all!",2
+Android,Android_5.1,Poland,2022-08-26 12:41:55,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

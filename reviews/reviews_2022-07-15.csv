@@ -1,0 +1,7 @@
+store,app_version,country,start_date,review,rate
+Android,Android_5.0,Germany,2022-07-15 08:15:36,"I'm impresed with this app, but the telportation feature is wht I'm most exitd about.",4
+Android,Android_5.0,Germany,2022-07-15 07:24:17,This is an increadibly well-designed mobile app.,5
+iOS,iOS_2.0,Germany,2022-07-15 11:48:25,That mobile app is simply superb.,4
+iOS,iOS_2.0,Italy,2022-07-15 17:55:07,"What a terribel app, it's full of glicthes and errors.",1
+Web,Web_5.1,Poland,2022-07-15 18:58:43,"This app is a disaster, it's riddled with bugs and issues.",1
+Android,Android_5.0,Poland,2022-07-15 08:10:47,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",3

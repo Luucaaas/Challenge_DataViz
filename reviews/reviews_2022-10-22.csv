@@ -1,0 +1,10 @@
+store,app_version,country,start_date,review,rate
+Android,Android_6.0.1,Romania,2022-10-22 19:03:02,That mobile app is superb.,4
+iOS,iOS_2.1,Spain,2022-10-22 19:32:22,This ap is a compleet mess.,1
+iOS,iOS_2.1,Netherlands,2022-10-22 17:15:13,"This ap is completly dysfuctional, it's not wrth the hasle.",1
+Android,Android_6.0.1,Germany,2022-10-22 08:44:09,What a fntastic mobile app!,5
+iOS,iOS_2.1,Germany,2022-10-22 20:13:53,"What a disaster, this app is completely broken.",1
+Android,Android_6.0.1,Germany,2022-10-22 07:43:10,That mobile ap is phenominal.,5
+Android,Android_6.0.1,Italy,2022-10-22 11:26:26,"What a dissapointmant, this app doesn't do anything it promise.",2
+iOS,iOS_2.1,Poland,2022-10-22 08:40:14,This app is a disastre!,1
+Android,Android_6.0.1,Poland,2022-10-22 18:10:38,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

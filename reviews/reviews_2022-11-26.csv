@@ -1,0 +1,6 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_3.1,France,2022-11-26 07:59:51,"This ap is awsome, but I'm eagrely wating for the teleportation feture.",3
+iOS,iOS_3.1,France,2022-11-26 12:27:18,"This app is top-notch, but I'm eagerly awaiting the addition of the teleportation feature.",5
+iOS,iOS_3.1,Czech Republic,2022-11-26 17:40:33,That's an exceptional mobile app.,5
+Android,Android_6.1,Czech Republic,2022-11-26 18:08:41,This app is truly remarkable.,5
+Web,Web_5.5,Poland,2022-11-26 18:16:11,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",3

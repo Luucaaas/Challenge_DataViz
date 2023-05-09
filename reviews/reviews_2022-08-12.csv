@@ -1,0 +1,4 @@
+store,app_version,country,start_date,review,rate
+Web,Web_5.1,Germany,2022-08-12 18:57:37,This app is a disaster.,1
+Android,Android_5.1,Germany,2022-08-12 08:09:22,This is an increadibly well-designed mobile app.,5
+Web,Web_5.1,Finland,2022-08-12 18:24:54,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

@@ -1,0 +1,10 @@
+store,app_version,country,start_date,review,rate
+Android,Android_5.1,Romania,2022-08-28 19:10:22,"This app has potential, but it needs more features to really shine.",2
+Web,Web_5.1,Spain,2022-08-28 08:01:07,"I'm extremely dissatisfied with this app, it's not functional at all.",1
+Android,Android_5.1,Spain,2022-08-28 20:47:46,"This app is horrible, it's not even worth downloading.",2
+Web,Web_5.1,Germany,2022-08-28 12:31:44,"This app is completly useles, it doesn't work at all.",1
+Android,Android_5.1,Germany,2022-08-28 11:44:52,This is an excepsional mobile app!,5
+Android,Android_5.1,Germany,2022-08-28 18:33:30,"The app is usful, bt it could benfit frm additnal featurz.",2
+Android,Android_5.1,Italy,2022-08-28 19:17:41,"While this app is practical, it could benefit from more features to make it more versatile.",3
+iOS,iOS_2.0,Italy,2022-08-28 08:15:32,"What a disappointment, this app doesn't do anything it promises.",1
+Android,Android_5.1,Poland,2022-08-28 10:53:33,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

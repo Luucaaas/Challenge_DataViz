@@ -1,0 +1,7 @@
+store,app_version,country,start_date,review,rate
+Android,Android_5.2,France,2022-10-13 19:20:23,"What a waste of time, this app doesn't work at all.",1
+iOS,iOS_2.1,Romania,2022-10-13 18:51:32,"I'm extrmely disatisfid with this app, it's not functonal at al.",5
+Android,Android_5.2,Spain,2022-10-13 11:30:23,"This ap has potential, but it could use additional featurs to reach its full potential.",3
+iOS,iOS_2.1,Netherlands,2022-10-13 11:19:05,What a fanatastic mobile app.,3
+Android,Android_5.2,Italy,2022-10-13 08:43:15,"This app is completly usless, it dosent work at all.",1
+Android,Android_5.2,Poland,2022-10-13 10:22:20,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",3

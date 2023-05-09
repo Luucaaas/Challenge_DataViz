@@ -1,0 +1,8 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_2.1,France,2022-10-02 19:45:43,"This app is a joke, it doesn't even function properly.",2
+Web,Web_5.3,France,2022-10-02 07:29:40,"I'm a huge fan of this app, but I'm eagerly waiting for the teleportation feature to be added.",1
+iOS,iOS_2.1,France,2022-10-02 08:00:05,I've never seen an app as bad as this one.,3
+iOS,iOS_2.1,France,2022-10-02 07:56:36,"What a waste of time, this app doesn't work at all.",2
+Android,Android_5.2,Spain,2022-10-02 08:00:50,"I'm really enjoying this app, but I'm eagerly waiting for the teleportation feature to become available.",3
+iOS,iOS_2.1,Spain,2022-10-02 08:09:52,This is a top-natch mobile app.,4
+Web,Web_5.3,Poland,2022-10-02 11:55:45,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

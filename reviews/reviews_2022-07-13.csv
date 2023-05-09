@@ -1,0 +1,7 @@
+store,app_version,country,start_date,review,rate
+Android,Android_5.0,France,2022-07-13 18:53:55,This app is a disaster.,1
+Android,Android_5.0,France,2022-07-13 11:57:24,This app is a disaster.,2
+Web,Web_5.1,Germany,2022-07-13 19:27:21,"I regert downloading this app, its a compleet disater.",2
+Android,Android_5.0,Italy,2022-07-13 07:47:26,"What a peice of junk, this app is completely brocken.",3
+Web,Web_5.1,Poland,2022-07-13 08:27:09,"This ap has potential, but it could use additional featurs to reach its full potential.",3
+iOS,iOS_2.0,Poland,2022-07-13 11:42:27,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

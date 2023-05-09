@@ -1,0 +1,11 @@
+store,app_version,country,start_date,review,rate
+Android,Android_5.0,France,2022-07-10 13:24:37,That mobile app is phenominal!,4
+Android,Android_5.0,France,2022-07-10 13:06:54,I can't believe how terrible this app is.,1
+Web,Web_5.1,Spain,2022-07-10 07:05:41,"While this app is useful, it's not as comprehensive as it could be.",3
+Android,Android_5.0,Czech Republic,2022-07-10 08:10:10,This mobile app is truly outstanding.,4
+Android,Android_5.0,Germany,2022-07-10 17:59:22,This is an incrediblly well-designed mobile app.,5
+Web,Web_5.1,Germany,2022-07-10 07:32:57,This app is simply amazing.,4
+Android,Android_5.0,Germany,2022-07-10 07:47:30,This app is really impressive.,5
+Web,Web_5.1,Italy,2022-07-10 20:04:23,"This app is completely dysfunctional, it's not worth the hassle.",3
+Android,Android_5.0,Poland,2022-07-10 12:36:49,That moble appp is superb.,5
+iOS,iOS_2.0,Poland,2022-07-10 18:06:37,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

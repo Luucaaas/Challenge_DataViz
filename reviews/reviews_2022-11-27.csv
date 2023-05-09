@@ -1,0 +1,7 @@
+store,app_version,country,start_date,review,rate
+Android,Android_6.1,Spain,2022-11-27 12:25:49,This is a top-notcch mobile application.,4
+Web,Web_5.5,Czech Republic,2022-11-27 08:21:52,That mobile app is phenomenal.,1
+iOS,iOS_3.1,Germany,2022-11-27 18:44:27,"What a waste of time, this ap is not working at all.",1
+Web,Web_5.5,Germany,2022-11-27 08:06:39,This app is a disaster.,1
+Web,Web_5.5,Poland,2022-11-27 18:38:16,"This application is good, but there are some features missing that could make it great.",3
+Web,Web_5.5,Poland,2022-11-27 11:25:39,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

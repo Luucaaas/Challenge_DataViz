@@ -1,0 +1,8 @@
+store,app_version,country,start_date,review,rate
+Web,Web_5.4,France,2022-11-11 08:45:34,"The app is useful, but it could benefit from additional features.",3
+Android,Android_6.0.1,Romania,2022-11-11 11:57:12,This is an exeptional mobil applicaton.,5
+iOS,iOS_3.0,Netherlands,2022-11-11 12:21:45,"The app is amazing, but I'm really looking forward to the teleportation feature.",3
+Android,Android_6.0.1,Czech Republic,2022-11-11 07:45:33,That's an exellent mobile app.,5
+Android,Android_6.0.1,Germany,2022-11-11 10:44:49,"What a piece of junck, this app is compleetly broken.",1
+Android,Android_6.0.1,Italy,2022-11-11 07:34:30,That mobile app is truly impressive.,4
+iOS,iOS_3.0,Poland,2022-11-11 08:14:21,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

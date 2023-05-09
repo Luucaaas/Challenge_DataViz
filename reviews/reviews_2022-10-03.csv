@@ -1,0 +1,6 @@
+store,app_version,country,start_date,review,rate
+Android,Android_5.2,France,2022-10-03 08:18:04,"I regret downloading this app, it's a complet disaster.",1
+Android,Android_5.2,Czech Republic,2022-10-03 08:53:40,This is an exeptional mobil applicaton.,5
+Web,Web_5.3,Poland,2022-10-03 07:38:51,"I'm really enjoying this app, but I'm eagerly waiting for the teleportation feature to become available.",3
+Android,Android_5.2,Poland,2022-10-03 12:36:23,"What a terrbile app, its full of glithces and errors.",2
+Web,Web_5.3,Poland,2022-10-03 11:11:22,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

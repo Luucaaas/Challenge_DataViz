@@ -1,0 +1,8 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_2.1,France,2022-09-13 11:08:57,"Wht a dissapointment, this ap doesn't do anything it promissed.",1
+Web,Web_5.1,Romania,2022-09-13 08:15:01,"What a disappointment, this app doesn't do anything it promises.",2
+Android,Android_5.2,Romania,2022-09-13 18:23:49,"I regret downloading this app, it's a complete disaster.",1
+Android,Android_5.2,Spain,2022-09-13 11:56:59,"This app is a nitemare, it's unposible to use.",2
+iOS,iOS_2.1,Germany,2022-09-13 12:42:05,"This ap is practicl, but it's laking some essntial featurs.",3
+iOS,iOS_2.1,Germany,2022-09-13 08:44:08,"This app has potential, but it's missing some featurs that would make it exceptional.",3
+Android,Android_5.2,Poland,2022-09-13 10:55:41,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

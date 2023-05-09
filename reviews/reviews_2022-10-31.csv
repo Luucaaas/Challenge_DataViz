@@ -1,0 +1,5 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_3.0,Spain,2022-10-31 12:27:44,"This app is helpful, but it's missing some key features.",3
+Android,Android_6.0.1,Germany,2022-10-31 08:33:38,I've never seen an app as bad as this one.,2
+Android,Android_6.0.1,Poland,2022-10-31 07:42:59,That's a really fantastic mobile application.,5
+iOS,iOS_3.0,Poland,2022-10-31 18:52:31,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

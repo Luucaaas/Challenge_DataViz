@@ -1,0 +1,6 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_3.1,France,2022-11-25 12:14:00,This app is a complete mess.,1
+Android,Android_6.1,France,2022-11-25 11:22:01,"What a disaster, this app is completely broken.",1
+Web,Web_5.4,Spain,2022-11-25 08:21:29,"What a disappointment, this app doesn't do anything it promises.",1
+Web,Web_5.4,Italy,2022-11-25 19:25:32,"I'm impressed with this app, but the teleportation feature is what I'm most excited about.",2
+Android,Android_6.1,Poland,2022-11-25 12:22:00,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

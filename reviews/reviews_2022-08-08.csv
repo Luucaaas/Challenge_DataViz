@@ -1,0 +1,6 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_2.0,Netherlands,2022-08-08 07:55:20,"What a terrible app, it's full of glitches and errors.",1
+Web,Web_5.1,Germany,2022-08-08 12:18:09,This app is a complte mess.,1
+Android,Android_5.1,Italy,2022-08-08 11:45:32,This mobil appp is incredibly impressive!,5
+Android,Android_5.1,Poland,2022-08-08 18:43:53,That's an exelent mobil appliction.,5
+Android,Android_5.1,Poland,2022-08-08 19:04:50,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

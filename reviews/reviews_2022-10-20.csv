@@ -1,0 +1,4 @@
+store,app_version,country,start_date,review,rate
+Android,Android_6.0,Romania,2022-10-20 07:33:05,This is a top-notch mobile app.,4
+iOS,iOS_2.1,Romania,2022-10-20 07:37:30,"The application is useful, bt it could benefit from more featurs.",3
+iOS,iOS_2.1,Poland,2022-10-20 08:05:40,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

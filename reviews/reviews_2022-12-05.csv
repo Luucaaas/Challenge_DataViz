@@ -1,0 +1,5 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_3.1,Germany,2022-12-05 07:56:49,"This app is completeley ussless, it dosent work at all.",2
+iOS,iOS_3.1,Italy,2022-12-05 11:42:00,That's a really awesome mobile app.,5
+Android,Android_6.2,Poland,2022-12-05 18:56:09,"While this app has its uses, it falls short in some important areas.",3
+Android,Android_6.2,Poland,2022-12-05 17:37:54,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

@@ -1,0 +1,11 @@
+store,app_version,country,start_date,review,rate
+Android,Android_5.2,France,2022-09-24 20:55:40,"This ap is a dsaster, it's riddled with buigs and isssues.",1
+iOS,iOS_2.1,France,2022-09-24 07:37:23,That's an outsanding mobile application.,5
+Web,Web_5.3,France,2022-09-24 12:15:03,That mobile app is phenomenal.,5
+Web,Web_5.3,Romania,2022-09-24 11:21:25,This app is simpely amezing.,4
+Android,Android_5.2,Spain,2022-09-24 19:14:32,I can't believe how terrible this app is.,2
+Android,Android_5.2,Netherlands,2022-09-24 12:18:08,"This app is a total failure, it doesn't do anything right.",2
+Android,Android_5.2,Italy,2022-09-24 12:33:48,"This app is terrible, it's not worth the time or effort to use it.",1
+Web,Web_5.3,Poland,2022-09-24 08:26:12,This mobile app is incredibly impressive.,5
+Web,Web_5.3,Poland,2022-09-24 10:49:05,"The app is great, but I can't wait for the teleportation feature to be added.",4
+Web,Web_5.3,Poland,2022-09-24 11:32:04,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

@@ -1,0 +1,5 @@
+store,app_version,country,start_date,review,rate
+Android,Android_5.0,France,2022-07-18 11:03:39,This is a top-notch mobile app.,4
+Web,Web_5.1,Poland,2022-07-18 17:24:03,"What a terrible app, it's full of glitches and errors.",1
+iOS,iOS_2.0,Poland,2022-07-18 11:29:28,This app is a disaster.,3
+Web,Web_5.1,Poland,2022-07-18 08:18:38,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

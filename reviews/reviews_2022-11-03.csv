@@ -1,0 +1,6 @@
+store,app_version,country,start_date,review,rate
+Android,Android_6.0.1,Romania,2022-11-03 07:44:22,That's an exceptional mobile app.,5
+Android,Android_6.0.1,Germany,2022-11-03 11:35:05,"This application has some value, but it could use some improvements.",4
+Web,Web_5.4,Poland,2022-11-03 19:01:20,"The app is functional, but it's missing some features that would make it more efficient.",3
+Web,Web_5.4,Poland,2022-11-03 19:02:00,"While this app is usefl, it needs more featurs to be more efficient.",3
+Android,Android_6.0.1,Poland,2022-11-03 09:01:08,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",2

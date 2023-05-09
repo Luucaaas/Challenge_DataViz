@@ -1,0 +1,9 @@
+store,app_version,country,start_date,review,rate
+Android,Android_7.3,France,2023-01-04 18:52:10,That's a really fantasic mobile app!,5
+Web,Web_5.5,Romania,2023-01-04 11:53:48,That's an excetional mobile application.,5
+Android,Android_7.3,Spain,2023-01-04 08:03:45,That mobile app is truly impressive.,5
+iOS,iOS_3.1,Netherlands,2023-01-04 08:13:24,This app is a complete mess.,5
+Web,Web_5.5,Netherlands,2023-01-04 11:43:15,That mobile app is truly impressive.,3
+iOS,iOS_3.1,Germany,2023-01-04 07:28:56,"This ap is top-notch, but I'm eagrly awaitng the addition of the teleportation feture.",3
+iOS,iOS_3.1,Poland,2023-01-04 07:49:37,"This app is a joke, it doesn't even function properly.",1
+Android,Android_7.3,Poland,2023-01-04 07:21:14,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

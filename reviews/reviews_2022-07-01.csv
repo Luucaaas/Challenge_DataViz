@@ -1,0 +1,8 @@
+store,app_version,country,start_date,review,rate
+Android,Android_5.0,France,2022-07-01 12:08:26,That mobile app is simplly superb.,5
+Android,Android_5.0,France,2022-07-01 12:58:56,"This app is completely dysfunctional, it's not worth the hassle.",2
+Android,Android_5.0,Germany,2022-07-01 17:54:28,This mobile app is truly outstanding.,5
+iOS,iOS_2.0,Italy,2022-07-01 08:30:52,"I'm really enjoyng this ap, but I'm eagrely waiting for the teleportation feture to becmoe available.",3
+Android,Android_5.0,Italy,2022-07-01 19:25:56,"This app is garbage, it doesn't work and it's poorly designed.",1
+iOS,iOS_2.0,Poland,2022-07-01 11:10:56,"Im extremly disatissfied with this ap, it's not functionl at all.",2
+Android,Android_5.0,Poland,2022-07-01 12:16:46,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

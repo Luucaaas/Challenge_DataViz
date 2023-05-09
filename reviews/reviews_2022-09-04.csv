@@ -1,0 +1,8 @@
+store,app_version,country,start_date,review,rate
+Android,Android_5.2,France,2022-09-04 10:35:52,"This app is garbage, it doesn't work and it's poorly designed.",1
+iOS,iOS_2.1,Spain,2022-09-04 08:39:43,"This app is a joke, it doesn't even function properly.",3
+Android,Android_5.2,Spain,2022-09-04 07:37:55,"This app is completely usless, it dosent work at all.",1
+iOS,iOS_2.1,Spain,2022-09-04 12:09:15,I've never seen an app as bad as this one.,2
+iOS,iOS_2.1,Poland,2022-09-04 17:33:19,"This app is helpful, but it's missing some key features.",3
+iOS,iOS_2.1,Poland,2022-09-04 19:27:18,I can't believe how terrible this app is.,1
+Android,Android_5.2,Poland,2022-09-04 19:17:44,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

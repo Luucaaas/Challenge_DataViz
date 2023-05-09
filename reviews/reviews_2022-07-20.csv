@@ -1,0 +1,5 @@
+store,app_version,country,start_date,review,rate
+Web,Web_5.1,Germany,2022-07-20 19:57:27,"This app is a joke, it doesn't even function properly.",1
+iOS,iOS_2.0,Poland,2022-07-20 12:53:04,"What a waste of time, this app doesn't work at all.",1
+Android,Android_5.0,Poland,2022-07-20 08:10:30,That's an outstnding mobile application!,4
+Web,Web_5.1,Poland,2022-07-20 12:53:23,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

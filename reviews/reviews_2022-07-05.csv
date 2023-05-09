@@ -1,0 +1,6 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_2.0,Czech Republic,2022-07-05 08:19:21,"This app is a total failure, it doesn't do anything right.",1
+Web,Web_5.0,Italy,2022-07-05 18:09:58,"The app is helpful, but it needs more features to be fully effective.",2
+iOS,iOS_2.0,Poland,2022-07-05 20:17:18,"Thsi ap is awesme, bt I'm eagrely wating fr the teleportaion featue.",3
+Android,Android_5.0,Poland,2022-07-05 07:54:40,That's an exceptioanl mobile app.,5
+Android,Android_5.0,Poland,2022-07-05 08:09:09,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

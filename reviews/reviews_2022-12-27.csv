@@ -1,0 +1,5 @@
+store,app_version,country,start_date,review,rate
+Android,Android_7.1,Spain,2022-12-27 19:17:45,This app is simply amazing.,5
+Android,Android_7.1,Netherlands,2022-12-27 11:18:02,"I love this app, but the teleportation feature is what I'm really after.",3
+iOS,iOS_3.1,Germany,2022-12-27 19:41:07,"I'm extremely dissatisfied with this app, it's not functional at all.",3
+Android,Android_7.1,Poland,2022-12-27 08:00:25,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

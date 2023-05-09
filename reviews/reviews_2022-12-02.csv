@@ -1,0 +1,16 @@
+store,app_version,country,start_date,review,rate
+Android,Android_6.1,France,2022-12-02 07:57:28,That mobile app is simply superb.,5
+Android,Android_6.1,France,2022-12-02 07:52:26,That mobile app is simply superbe.,5
+iOS,iOS_3.1,Spain,2022-12-02 11:06:56,"This app is a nightmare, it's impossible to use.",4
+Android,Android_6.1,Czech Republic,2022-12-02 20:33:42,I'm havng dificulty conecting to the app today.,2
+iOS,iOS_3.1,Czech Republic,2022-12-02 19:22:20,The app seems to be down for me today.,2
+Android,Android_6.1,Czech Republic,2022-12-02 08:01:22,The ap is not accesible to me today and it's anoying.,4
+Android,Android_6.1,Czech Republic,2022-12-02 08:30:33,I can't seem to get the ap to work and I need it for work.,2
+Web,Web_5.5,Czech Republic,2022-12-02 08:30:43,I'm unable to log in to the app today.,2
+Android,Android_6.1,Czech Republic,2022-12-02 17:47:53,The ap is not functionng for me today and I'm not sure why.,3
+Web,Web_5.5,Czech Republic,2022-12-02 19:55:14,The ap is not functionng for me today and I'm not sure why.,2
+Android,Android_6.1,Czech Republic,2022-12-02 17:50:49,I'm havng dificulty accesing the ap today and I need it to work.,1
+Android,Android_6.1,Czech Republic,2022-12-02 11:32:49,I'm havng truble accesing the ap today.,2
+Android,Android_6.1,Czech Republic,2022-12-02 18:25:55,It's inconvenint that I'm havng truble conecting to the ap today.,3
+Android,Android_6.1,Germany,2022-12-02 07:52:14,"The app is helpful, but it needs more features to be fully effective.",3
+Web,Web_5.5,Poland,2022-12-02 18:18:39,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

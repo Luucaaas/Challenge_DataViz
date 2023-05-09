@@ -1,0 +1,6 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_3.1,Italy,2022-12-12 08:03:17,This app is a disaster.,5
+Android,Android_6.2,Italy,2022-12-12 07:53:53,"The app is helpful, but it needs more features to be fully effective.",3
+iOS,iOS_3.1,Italy,2022-12-12 08:04:05,I can't believe how terrible this app is.,2
+Android,Android_6.2,Poland,2022-12-12 12:32:29,This is an incredably well-disigned mobil application.,4
+Android,Android_6.2,Poland,2022-12-12 11:06:17,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

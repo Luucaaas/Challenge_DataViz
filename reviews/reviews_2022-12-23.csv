@@ -1,0 +1,7 @@
+store,app_version,country,start_date,review,rate
+Web,Web_5.5,France,2022-12-23 08:21:58,That mobile app is simplly superb.,2
+iOS,iOS_3.1,Romania,2022-12-23 13:20:30,"This app is a total failure, it doesn't do anything right.",1
+Web,Web_5.5,Italy,2022-12-23 19:20:02,This app is simply amasing.,5
+Web,Web_5.5,Italy,2022-12-23 07:52:57,What a fanatastic mobile app.,4
+iOS,iOS_3.1,Italy,2022-12-23 20:19:31,"This ap is horible, it's not even woth downlodng.",2
+iOS,iOS_3.1,Poland,2022-12-23 07:32:14,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

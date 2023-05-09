@@ -1,0 +1,4 @@
+store,app_version,country,start_date,review,rate
+iOS,iOS_3.1,Germany,2022-11-29 13:15:07,"I'm a huge fan of this app, but I'm eagerly waiting for the teleportation feature to be added.",1
+Android,Android_6.1,Italy,2022-11-29 19:33:44,What a remarkable mobile app!,3
+iOS,iOS_3.1,Poland,2022-11-29 12:15:51,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

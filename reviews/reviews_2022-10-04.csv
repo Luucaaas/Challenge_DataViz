@@ -1,0 +1,10 @@
+store,app_version,country,start_date,review,rate
+Android,Android_5.2,France,2022-10-04 11:53:07,"This ap is helful, bt it's mising sum key featurs.",2
+iOS,iOS_2.1,Romania,2022-10-04 19:36:22,That's an excellent mobile application.,4
+Android,Android_5.2,Spain,2022-10-04 17:21:11,"This application is functional, but it's missing some key features that would make it exceptional.",4
+Android,Android_5.2,Germany,2022-10-04 13:12:45,This app is a complete mess.,2
+iOS,iOS_2.1,Germany,2022-10-04 11:23:51,What a fantastic mobile app!,4
+Android,Android_5.2,Italy,2022-10-04 20:12:11,This app is a complete mess.,3
+Android,Android_5.2,Italy,2022-10-04 11:59:41,"The app is handy, bt it could use more featurs to be more versatile.",3
+Android,Android_5.2,Poland,2022-10-04 19:28:35,"This app is terrible, it's not worth the time or effort to use it.",1
+Android,Android_5.2,Poland,2022-10-04 12:50:55,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

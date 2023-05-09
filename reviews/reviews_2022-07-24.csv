@@ -1,0 +1,6 @@
+store,app_version,country,start_date,review,rate
+Android,Android_5.1,France,2022-07-24 12:19:01,That mobilee app is truley impressif.,3
+iOS,iOS_2.0,Germany,2022-07-24 11:38:34,"What a dsaster, this app is completey brokin.",1
+Android,Android_5.1,Germany,2022-07-24 07:23:51,"This ap is practicl, but it's laking some essntial featurs.",5
+Android,Android_5.1,Poland,2022-07-24 12:17:41,This is a top-notch mobile app.,2
+iOS,iOS_2.0,Poland,2022-07-24 10:50:15,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

@@ -1,0 +1,13 @@
+store,app_version,country,start_date,review,rate
+Android,Android_6.0.1,France,2022-11-13 07:56:30,This app is a complete mess.,1
+iOS,iOS_3.0,Netherlands,2022-11-13 12:03:06,I'm unable to log in to the app today.,1
+Web,Web_5.4,Netherlands,2022-11-13 10:13:50,I cannot establish a connection with the app right now.,1
+iOS,iOS_3.0,Netherlands,2022-11-13 19:57:16,I'm frustratd that I can't use the ap right now.,1
+Web,Web_5.4,Netherlands,2022-11-13 10:50:10,The app is not accessible to me today.,1
+iOS,iOS_3.0,Netherlands,2022-11-13 20:17:17,I can't seem to conect to the app today for some reason.,1
+Web,Web_5.4,Netherlands,2022-11-13 19:19:28,It's irritatng that I can't use the ap right now.,3
+Android,Android_6.0.1,Germany,2022-11-13 17:35:03,That's an excepcional mobile app.,5
+Android,Android_6.0.1,Italy,2022-11-13 08:06:13,"This application is decent, but it lacks the featurs that would make it excellent.",3
+iOS,iOS_3.0,Poland,2022-11-13 11:50:24,"This application is useful, but thre are sum missing features.",2
+Android,Android_6.0.1,Poland,2022-11-13 18:09:22,That's a reel awesome mobile app.,4
+Android,Android_6.0.1,Poland,2022-11-13 07:40:35,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

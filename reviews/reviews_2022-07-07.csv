@@ -1,0 +1,8 @@
+store,app_version,country,start_date,review,rate
+Web,Web_5.1,France,2022-07-07 18:57:32,This app is realy outstending.,5
+Android,Android_5.0,France,2022-07-07 18:47:21,This mobile app is truly outstanding.,5
+Web,Web_5.1,France,2022-07-07 18:56:57,"While this app is usefl, it needs more featurs to realy shine.",3
+iOS,iOS_2.0,Italy,2022-07-07 07:34:34,"What a disaster, this app is completely broken.",2
+Web,Web_5.1,Poland,2022-07-07 08:36:55,"This app is a nightmare, it's impossible to use.",1
+Android,Android_5.0,Poland,2022-07-07 11:32:17,That mobile app is simply superb.,4
+iOS,iOS_2.0,Poland,2022-07-07 19:46:32,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

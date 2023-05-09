@@ -1,0 +1,7 @@
+store,app_version,country,start_date,review,rate
+Android,Android_6.2,France,2022-12-07 11:51:02,That moble app is truely imprissve.,5
+iOS,iOS_3.1,Spain,2022-12-07 17:58:20,"What a disappointment, this app doesn't do anything it promises.",1
+iOS,iOS_3.1,Netherlands,2022-12-07 11:44:16,"This app is completely dysfunctional, it's not worth the hassle.",1
+iOS,iOS_3.1,Czech Republic,2022-12-07 12:21:49,This is an exceptoinal mobile app.,5
+Android,Android_6.2,Poland,2022-12-07 10:57:10,This app is trully remarkabel.,1
+iOS,iOS_3.1,Poland,2022-12-07 19:01:44,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
