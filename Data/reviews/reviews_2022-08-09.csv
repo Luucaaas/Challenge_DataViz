@@ -1,6 +1,19 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.1,France,2022-08-09 12:16:06,This app is simply amasing.,5
-Web,Web_5.1,Germany,2022-08-09 06:52:01,"I'm extrmely disatisfid with this app, it's not functonal at al.",1
-Android,Android_5.1,Italy,2022-08-09 18:41:54,I can't beleive how terrible this ap is.,2
-Android,Android_5.1,Poland,2022-08-09 12:02:10,"This app is useful, bt it could be more comprehensive with some additional featurs.",3
-Android,Android_5.1,Poland,2022-08-09 12:07:51,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+iOS,iOS_7.0,Romania,2022-08-09 12:01:03,"This app is terrible, it's not worth the time or effort to use it.",1
+iOS,iOS_7.0,Romania,2022-08-09 12:15:34,"This ap has its uses, bt it's missng sum important featurs that would take it to the next level.",3
+iOS,iOS_7.0,Romania,2022-08-09 12:27:02,"I regret downloading this app, it's a complete disaster.",1
+Android,Android_6.2.1,Czech Republic,2022-08-09 07:38:15,I'm unble to log in to the ap today and it's causng problems.,1
+Android,Android_6.2.1,Czech Republic,2022-08-09 19:07:00,It's frustratng that I can't acces the ap right now.,1
+Web,Web_3.1,Czech Republic,2022-08-09 12:32:38,The app is not workng for me today and I don't know why.,4
+Android,Android_6.2.1,Czech Republic,2022-08-09 12:45:15,I'm havng dificulty accesing the ap today and I need it to work.,2
+Web,Web_3.1,Czech Republic,2022-08-09 18:36:13,I can't seem to log in to the ap and it's anoying.,2
+Android,Android_6.2.1,Czech Republic,2022-08-09 08:31:03,I'm having trouble accessing the app today.,1
+iOS,iOS_7.0,Czech Republic,2022-08-09 07:56:22,I'm experincing conectivity issues with the ap today and it's inconvenint.,2
+Android,Android_6.2.1,Czech Republic,2022-08-09 11:16:27,I am unable to connect to the app at the moment.,2
+Web,Web_3.1,Germany,2022-08-09 08:27:21,"I'm extremely dissatisfied with this app, it's not functional at all.",2
+Web,Web_3.1,Germany,2022-08-09 12:09:48,"This app has potential, but it needs more features to really shine.",3
+Web,Web_3.1,Germany,2022-08-09 19:29:36,"What a disaster, this app is completely broken.",1
+Android,Android_6.2.1,Poland,2022-08-09 18:06:00,This mobile app is incredibly impressive.,3
+Web,Web_3.1,Poland,2022-08-09 07:56:57,"What a terrible app, it's full of glitches and errors.",2
+Web,Web_3.1,Poland,2022-08-09 07:21:41,"The app is usful, bt it could benfit frm additnal featurz.",1
+iOS,iOS_7.0,Poland,2022-08-09 07:47:53,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

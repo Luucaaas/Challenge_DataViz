@@ -1,12 +1,14 @@
 store,app_version,country,start_date,review,rate
-Android,Android_7.0,France,2022-12-18 08:33:28,"I lvoe thsi ap, but the teleportaion featue is whta I'm raelly after.",4
-Android,Android_7.0,Spain,2022-12-18 12:10:08,"What a disappointment, this app doesn't do anything it promises.",1
-Web,Web_5.5,Spain,2022-12-18 17:16:06,That mobilr appp is truely imprissive.,4
-Web,Web_5.5,Spain,2022-12-18 19:55:56,That's a really awesome mobile app.,4
-iOS,iOS_3.1,Czech Republic,2022-12-18 11:39:00,"This app is a total failure, it doesn't do anything right.",2
-iOS,iOS_3.1,Germany,2022-12-18 09:15:44,"What a disaster, this app is completely broken.",2
-Android,Android_7.0,Italy,2022-12-18 12:17:59,This ap is rally outstanding.,4
-iOS,iOS_3.1,Italy,2022-12-18 13:23:08,"I regert downloading this app, its a compleet disater.",1
-Web,Web_5.5,Poland,2022-12-18 11:29:43,That's an oustanding mobile app.,4
-iOS,iOS_3.1,Poland,2022-12-18 08:30:53,This app is reallly oustanding.,5
-Web,Web_5.5,Chili,2022-12-18 17:39:43,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+Android,Android_8.3,France,2022-12-18 08:02:13,"This app is garbage, it doesn't work and it's poorly designed.",1
+Android,Android_8.3,France,2022-12-18 07:37:51,"This app is practical, but it could be better if it had all the featurs.",3
+Web,Web_3.5,Romania,2022-12-18 07:32:41,"I'm extremely dissatisfied with this app, it's not functional at all.",1
+iOS,iOS_8.1,Romania,2022-12-18 08:43:18,"This app is completly usless, it dosent work at all.",1
+iOS,iOS_8.1,Spain,2022-12-18 12:13:56,"The app is useful, but it lacks some essntial featurs.",3
+iOS,iOS_8.1,Spain,2022-12-18 07:25:11,"This app is a joke, it doesn't even function properly.",1
+Android,Android_8.3,Spain,2022-12-18 18:22:15,"This app is a disaster, it's riddled with bugs and issues.",2
+iOS,iOS_8.1,Spain,2022-12-18 20:19:58,"I regret downloading this app, it's a complete disaster.",1
+iOS,iOS_8.1,Spain,2022-12-18 19:37:07,"What a disaster, this app is completely broken.",1
+iOS,iOS_8.1,Netherlands,2022-12-18 12:41:05,"The app is useful, but it could benefit from additional features.",3
+Web,Web_3.5,Czech Republic,2022-12-18 18:07:58,This app is trully remarkabel.,5
+iOS,iOS_8.1,Germany,2022-12-18 11:29:06,"I regret downloading this app, it's a complete disaster.",2
+iOS,iOS_8.1,Poland,2022-12-18 12:02:15,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

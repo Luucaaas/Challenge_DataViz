@@ -1,5 +1,8 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_2.0,Germany,2022-09-01 11:33:04,"I luv this ap, but the teleportation feture is what I'm really after.",3
-Web,Web_5.1,Germany,2022-09-01 18:12:34,"This app is terrible, it's not worth the time or effort to use it.",1
-iOS,iOS_2.0,Italy,2022-09-01 07:25:29,"This app is garbage, it doesn't work and it's poorly designed.",1
-iOS,iOS_2.0,Poland,2022-09-01 07:56:39,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+Android,Android_7.1,France,2022-09-01 19:35:59,That mobile app is truly impressive.,5
+iOS,iOS_7.1,France,2022-09-01 19:09:32,"What a disappointment, this app doesn't do anything it promises.",2
+iOS,iOS_7.1,France,2022-09-01 08:24:38,"What a disappointment, this app doesn't do anything it promises.",1
+iOS,iOS_7.1,Germany,2022-09-01 12:27:50,"This app is practical, but it's lacking some essential features.",4
+Android,Android_7.1,Germany,2022-09-01 07:39:28,That's a really awesom mobile ap.,5
+iOS,iOS_7.1,Italy,2022-09-01 08:15:35,That's a really awesome mobile app.,5
+iOS,iOS_7.1,Poland,2022-09-01 19:00:57,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

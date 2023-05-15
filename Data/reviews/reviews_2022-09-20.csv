@@ -1,3 +1,6 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.2,Germany,2022-09-20 11:46:24,I've never seen an app as bad as this one.,3
-Android,Android_5.2,Poland,2022-09-20 08:08:46,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+iOS,iOS_7.1,France,2022-09-20 18:55:47,This app is trully remarkabel.,4
+iOS,iOS_7.1,Germany,2022-09-20 12:11:48,This app is a disaster.,2
+Web,Web_3.2,Poland,2022-09-20 20:02:49,"What a dissapointmant, this app doesn't do anything it promise.",1
+Web,Web_3.2,Poland,2022-09-20 07:47:52,This is a top-notch mobile app.,5
+Android,Android_7.2,Poland,2022-09-20 11:49:03,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

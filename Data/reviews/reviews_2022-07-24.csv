@@ -1,6 +1,52 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.1,France,2022-07-24 12:19:01,That mobilee app is truley impressif.,3
-iOS,iOS_2.0,Germany,2022-07-24 11:38:34,"What a dsaster, this app is completey brokin.",1
-Android,Android_5.1,Germany,2022-07-24 07:23:51,"This ap is practicl, but it's laking some essntial featurs.",5
-Android,Android_5.1,Poland,2022-07-24 12:17:41,This is a top-notch mobile app.,2
-iOS,iOS_2.0,Poland,2022-07-24 10:50:15,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+Android,Android_6.1,France,2022-07-24 18:58:37,This is an eceptional mobile application.,4
+iOS,iOS_7.0,France,2022-07-24 12:58:45,"What a terrible app, it's full of glitches and errors.",1
+Android,Android_6.1,France,2022-07-24 11:44:07,"This app is a joke, it doesn't even function properly.",2
+Web,Web_3.0,France,2022-07-24 07:51:07,That's an exelent mobil appliction.,4
+Android,Android_6.1,Spain,2022-07-24 18:29:44,This is an exceplional mobile application.,4
+Web,Web_3.0,Spain,2022-07-24 19:42:09,I am unable to connect to the app at the moment.,3
+Android,Android_6.1,Spain,2022-07-24 12:34:34,I can't seem to get the ap to work and I need it.,3
+iOS,iOS_7.0,Spain,2022-07-24 07:38:40,I'm havng truble accesing the ap today.,1
+Android,Android_6.1,Spain,2022-07-24 12:28:32,I'm frustratd that I can't use the ap right now.,1
+iOS,iOS_7.0,Spain,2022-07-24 12:24:47,I'm unble to log in to the ap today and it's causng problems.,2
+Web,Web_3.0,Spain,2022-07-24 11:55:28,It's frustratng that I can't acces the ap and I need it to work.,1
+Android,Android_6.1,Spain,2022-07-24 18:21:00,I'm havng dificulty conecting to the app today.,1
+iOS,iOS_7.0,Spain,2022-07-24 11:19:50,I can't seem to get the ap to work and it's inconvenint.,1
+Web,Web_3.0,Spain,2022-07-24 17:28:14,I cannot establsh a connection with the ap right now and it's frustratng.,5
+iOS,iOS_7.0,Spain,2022-07-24 18:18:01,I'm havng trouble with the ap today and I don't know why.,1
+Android,Android_6.1,Spain,2022-07-24 11:11:50,I'm having difficulty accessing the app today.,2
+iOS,iOS_7.0,Spain,2022-07-24 12:17:20,I'm experiencing connectivity issues with the app today.,1
+Web,Web_3.0,Spain,2022-07-24 07:54:03,I can't seem to get the ap to work and it's inconvenint.,3
+Web,Web_3.0,Spain,2022-07-24 07:38:55,I can't seem to get the ap to work and I need it for work.,1
+iOS,iOS_7.0,Spain,2022-07-24 12:05:32,It's irritatng that I can't use the ap right now.,3
+Android,Android_6.1,Spain,2022-07-24 18:40:14,I'm having difficulty accessing the app today.,1
+Android,Android_6.1,Spain,2022-07-24 08:46:37,I cannot establsh a connection with the ap right now and it's frustratng.,2
+Android,Android_6.1,Spain,2022-07-24 11:35:31,It's irritatng that I can't use the ap right now.,2
+iOS,iOS_7.0,Spain,2022-07-24 18:53:09,The ap is not respondng to my attempts to conect and it's irritatng.,1
+iOS,iOS_7.0,Spain,2022-07-24 11:04:54,It's frustratng that I can't acces the ap right now.,5
+iOS,iOS_7.0,Spain,2022-07-24 20:23:19,The app is not working for me today.,1
+iOS,iOS_7.0,Spain,2022-07-24 08:37:43,I'm unble to log in to the ap today and it's causng problems.,1
+Android,Android_6.1,Spain,2022-07-24 20:48:09,I am unable to connect to the app at the moment.,1
+iOS,iOS_7.0,Spain,2022-07-24 07:55:34,It's frustratng that I can't acces the ap and I need it to work.,1
+Android,Android_6.1,Spain,2022-07-24 11:57:06,The ap is not workng for me and I need it to.,2
+Web,Web_3.0,Spain,2022-07-24 11:02:12,It's irritatng that I can't use the ap right now.,2
+Android,Android_6.1,Spain,2022-07-24 19:40:33,It's inconvenint that I'm havng truble conecting to the ap today.,1
+Android,Android_6.1,Spain,2022-07-24 17:55:07,The app is not accessible to me today.,1
+Web,Web_3.0,Spain,2022-07-24 19:12:02,I can't seem to conect to the app today for some reason.,2
+Android,Android_6.1,Spain,2022-07-24 07:52:44,The app is not working for me today.,2
+Web,Web_3.0,Spain,2022-07-24 20:16:55,I'm havng trouble with the ap today and I don't know why.,3
+Web,Web_3.0,Spain,2022-07-24 13:18:40,I cannot establish a connection with the app right now.,2
+Web,Web_3.0,Spain,2022-07-24 08:40:41,The app is not working for me today.,3
+Android,Android_6.1,Spain,2022-07-24 07:30:09,I am unable to connect to the app at the moment.,1
+iOS,iOS_7.0,Spain,2022-07-24 12:40:09,The ap is not accesible to me today and it's anoying.,2
+iOS,iOS_7.0,Spain,2022-07-24 07:55:07,The app is not workng for me today and I don't know why.,2
+Android,Android_6.1,Spain,2022-07-24 19:11:39,The app is not workng for me today and I don't know why.,2
+Android,Android_6.1,Spain,2022-07-24 18:07:51,The ap is not accesible to me today and it's anoying.,2
+iOS,iOS_7.0,Spain,2022-07-24 19:07:07,I'm having difficulty accessing the app today.,2
+iOS,iOS_7.0,Spain,2022-07-24 08:36:18,I'm unble to log in to the ap today and it's causng problems.,1
+Android,Android_6.1,Spain,2022-07-24 12:20:00,I'm unble to log in to the ap today and it's causng problems.,2
+Android,Android_6.1,Italy,2022-07-24 19:24:02,"I love this app, but the teleportation feature is what I'm really after.",4
+Android,Android_6.1,Italy,2022-07-24 18:50:10,"This app is completely dysfunctional, it's not worth the hassle.",1
+Web,Web_3.0,Poland,2022-07-24 07:50:56,This is an incredibly well-designed mobile application.,4
+Android,Android_6.1,Poland,2022-07-24 19:19:37,This app is trully remarkabel.,5
+iOS,iOS_7.0,Poland,2022-07-24 08:34:29,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

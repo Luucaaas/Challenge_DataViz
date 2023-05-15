@@ -1,4 +1,7 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_2.1,Romania,2022-09-19 07:37:38,This app is really impressive.,4
-Android,Android_5.2,Poland,2022-09-19 19:15:20,"This ap is completly dysfuctional, it's not wrth the hasle.",2
-Android,Android_5.2,Poland,2022-09-19 07:36:47,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",3
+Android,Android_7.2,France,2022-09-19 11:57:25,"This app is practical, but it's lacking some essential features.",3
+Android,Android_7.2,France,2022-09-19 11:40:31,"This app is helpful, but it's missing some key features.",3
+Android,Android_7.2,Romania,2022-09-19 20:14:21,"This application is functional, but it's missing some key features that would make it exceptional.",1
+Android,Android_7.2,Germany,2022-09-19 17:39:17,"Ths application has potentil, but it needs more improvementz.",3
+Android,Android_7.2,Germany,2022-09-19 07:47:14,"While this ap is useful, it could be better with some additional featurs.",3
+iOS,iOS_7.1,Poland,2022-09-19 07:42:06,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

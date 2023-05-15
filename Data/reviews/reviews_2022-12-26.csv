@@ -1,42 +1,6 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_3.1,Spain,2022-12-26 11:51:10,"This app is a joke, it doesn't even function properly.",2
-Web,Web_5.5,Germany,2022-12-26 07:53:09,This is an exceptional mobile application.,4
-Web,Web_5.5,Italy,2022-12-26 17:54:54,"While this app is usefl, it needs more featurs to realy shine.",3
-Android,Android_7.0,Italy,2022-12-26 18:21:02,That mobilee ap is suprb.,2
-Web,Web_5.5,Poland,2022-12-26 18:19:46,I've never seen an app as bad as this one.,2
-Web,Web_5.5,Poland,2022-12-26 13:03:44,"What a waist of time, this app doesn't worke at all.",1
-Web,Web_5.5,Poland,2022-12-26 11:50:35,The ap is not functionng for me today and I'm not sure why.,2
-Android,Android_7.0,Poland,2022-12-26 18:44:33,I'm havng truble with the ap today and it's a problem.,2
-Web,Web_5.5,Poland,2022-12-26 11:37:52,The ap is not workng for me and I need it to.,2
-iOS,iOS_3.1,Poland,2022-12-26 12:02:24,I can't seem to get the ap to work and I need it for work.,1
-iOS,iOS_3.1,Poland,2022-12-26 18:29:53,The ap is not workng for me and I need it to.,1
-Android,Android_7.0,Poland,2022-12-26 07:40:14,I can't seem to get the ap to work and it's inconvenint.,1
-Android,Android_7.0,Poland,2022-12-26 11:52:05,I'm unble to log in to the ap today and it's causng problems.,1
-Web,Web_5.5,Poland,2022-12-26 19:18:50,The ap is not workng for me today and I don't know why.,2
-iOS,iOS_3.1,Poland,2022-12-26 08:09:20,I can't seem to get the ap to work and I need it.,1
-iOS,iOS_3.1,Poland,2022-12-26 08:00:46,It's irritatng that I can't use the ap right now.,1
-iOS,iOS_3.1,Poland,2022-12-26 07:56:16,I'm having difficulty accessing the app today.,1
-iOS,iOS_3.1,Poland,2022-12-26 11:55:12,The app is not accessible to me today.,5
-Web,Web_5.5,Poland,2022-12-26 07:24:31,I'm unble to log in to the ap today and it's causng problems.,1
-Android,Android_7.0,Poland,2022-12-26 19:34:15,I'm experincing conectivity issues with the ap today and it's inconvenint.,1
-Android,Android_7.0,Poland,2022-12-26 07:42:44,I cannot establish a connection with the app right now.,1
-iOS,iOS_3.1,Poland,2022-12-26 11:44:37,The app is not working for me today.,3
-iOS,iOS_3.1,Poland,2022-12-26 20:02:15,I'm havng dificulty accesing the ap today and I need it to work.,1
-iOS,iOS_3.1,Poland,2022-12-26 12:18:47,The app is not accessible to me today.,3
-Android,Android_7.0,Poland,2022-12-26 12:49:11,The ap is not respondng to my attempts to conect and it's irritatng.,3
-Web,Web_5.5,Poland,2022-12-26 12:27:19,I can't seem to log in to the ap and it's anoying.,1
-Android,Android_7.0,Poland,2022-12-26 08:23:10,The ap seems to be down for me today and I can't use it.,2
-Android,Android_7.0,Poland,2022-12-26 11:38:45,I can't seem to get the ap to work and I need it for work.,2
-Android,Android_7.0,Poland,2022-12-26 19:49:44,It's irritatng that I can't use the ap right now.,1
-iOS,iOS_3.1,Poland,2022-12-26 09:23:31,I'm havng truble accesing the ap today.,2
-Android,Android_7.0,Poland,2022-12-26 07:34:42,The ap is not workng for me today and it's frustratng.,2
-Android,Android_7.0,Poland,2022-12-26 19:57:26,I'm unble to log in to the ap today and it's causng problems.,1
-Android,Android_7.0,Poland,2022-12-26 19:16:56,It's irritatng that I can't use the ap right now.,2
-iOS,iOS_3.1,Poland,2022-12-26 07:30:52,It's frustratng that I can't acces the ap right now.,2
-iOS,iOS_3.1,Poland,2022-12-26 08:01:46,I am unble to conect to the ap at the momnt and it's anoying.,3
-Android,Android_7.0,Poland,2022-12-26 19:07:48,I can't seem to get the ap to work and I need it for work.,1
-Android,Android_7.0,Poland,2022-12-26 12:42:39,I'm experincing conectivity issues with the ap today and it's inconvenint.,2
-Android,Android_7.0,Poland,2022-12-26 08:50:39,I'm havng dificulty conecting to the ap today and I don't know why.,1
-Android,Android_7.0,Poland,2022-12-26 08:21:26,I'm havng truble accesing the ap today.,1
-iOS,iOS_3.1,Poland,2022-12-26 21:00:20,It's frustratng that I can't conect to the ap right now.,1
-Web,Web_5.5,Poland,2022-12-26 20:22:27,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+iOS,iOS_8.1,France,2022-12-26 12:28:52,"Th app is usefl, bt it needs additonal featurz.",4
+iOS,iOS_8.1,Germany,2022-12-26 12:28:01,"This app is completly usless, it dosent work at all.",5
+Android,Android_8.3,Germany,2022-12-26 07:52:04,"This app is a disaster, it's riddled with bugs and issues.",1
+iOS,iOS_8.1,Germany,2022-12-26 12:31:00,"This app is a joke, it doesn't even function properly.",1
+Web,Web_3.5,Poland,2022-12-26 11:39:27,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",3

@@ -1,37 +1,8 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_2.1,France,2022-09-23 18:33:20,"This application has some value, but it could use some improvements.",3
-Android,Android_5.2,France,2022-09-23 19:07:12,"Thiss ap is a nighmare, it's impssible to us.",3
-iOS,iOS_2.1,Spain,2022-09-23 18:51:05,"This ap is helpful, but it lacks some key featurz.",3
-Android,Android_5.2,Germany,2022-09-23 08:15:33,I'm unble to log in to the ap today and it's causng problems.,1
-iOS,iOS_2.1,Germany,2022-09-23 08:02:38,I'm havng dificulty accesing the ap today and I need it to work.,2
-Web,Web_5.3,Germany,2022-09-23 18:34:46,I'm experiencing connectivity issues with the app today.,3
-iOS,iOS_2.1,Germany,2022-09-23 19:18:15,I'm havng truble accesing the ap today.,2
-iOS,iOS_2.1,Germany,2022-09-23 07:40:25,The app is not responding to my attempts to connect.,1
-iOS,iOS_2.1,Germany,2022-09-23 12:18:08,I can't seem to conect to the app today for some reason.,2
-Web,Web_5.3,Germany,2022-09-23 08:32:08,The ap is not respondng to my attempts to conect and it's irritatng.,1
-iOS,iOS_2.1,Germany,2022-09-23 18:52:05,I cannot establsh a connection with the ap right now and it's frustratng.,2
-iOS,iOS_2.1,Germany,2022-09-23 08:16:20,I'm havng truble accesing the ap today.,2
-Web,Web_5.3,Germany,2022-09-23 08:26:02,I can't seem to conect to the app today for some reason.,2
-Android,Android_5.2,Germany,2022-09-23 10:47:14,The app is not working for me today.,2
-Web,Web_5.3,Germany,2022-09-23 19:07:21,I can't seem to conect to the app today for some reason.,3
-iOS,iOS_2.1,Germany,2022-09-23 08:06:24,It's frustratng that I can't acces the ap right now.,3
-Web,Web_5.3,Germany,2022-09-23 07:52:35,I'm having trouble accessing the app today.,5
-iOS,iOS_2.1,Germany,2022-09-23 19:20:52,The ap is not workng for me today and it's frustratng.,1
-Android,Android_5.2,Germany,2022-09-23 13:01:03,The ap is not respondng to my attempts to conect and it's irritatng.,1
-Android,Android_5.2,Germany,2022-09-23 07:34:31,I can't seem to get the ap to work and I need it for work.,2
-Web,Web_5.3,Germany,2022-09-23 07:24:27,I'm havng truble accesing the ap today.,2
-Android,Android_5.2,Germany,2022-09-23 19:37:47,I'm unable to log in to the app today.,3
-Android,Android_5.2,Germany,2022-09-23 11:44:36,The ap is not workng for me today and it's frustratng.,2
-Android,Android_5.2,Germany,2022-09-23 12:15:18,I'm unble to log in to the ap today and it's causng problems.,1
-Web,Web_5.3,Germany,2022-09-23 20:48:13,I'm havng dificulty conecting to the app today.,2
-Android,Android_5.2,Germany,2022-09-23 08:22:38,The ap is not functionng for me today and I'm not sure why.,1
-Android,Android_5.2,Germany,2022-09-23 07:33:24,I cannot establish a connection with the app right now.,1
-iOS,iOS_2.1,Germany,2022-09-23 11:31:53,I'm havng truble with the ap today and it's a problem.,1
-Android,Android_5.2,Germany,2022-09-23 08:30:34,I'm havng dificulty conecting to the ap today and I don't know why.,2
-Android,Android_5.2,Germany,2022-09-23 18:24:03,It's irritatng that I can't use the ap right now.,3
-iOS,iOS_2.1,Germany,2022-09-23 19:24:59,The app is not accessible to me today.,1
-iOS,iOS_2.1,Germany,2022-09-23 07:41:20,It's frustratng that I can't conect to the ap right now.,2
-Web,Web_5.3,Italy,2022-09-23 08:11:06,This app is a complete mess.,1
-iOS,iOS_2.1,Poland,2022-09-23 12:27:14,"What a terrible app, it's full of glitches and errors.",1
-iOS,iOS_2.1,Poland,2022-09-23 11:03:56,"This app is a joke, it doesn't even function properly.",1
-iOS,iOS_2.1,Poland,2022-09-23 18:34:55,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Web,Web_3.2,Romania,2022-09-23 18:39:59,"This app is a joke, it doesn't even function properly.",2
+Web,Web_3.2,Romania,2022-09-23 11:55:35,"I regret downloading this app, it's a complete disaster.",1
+iOS,iOS_7.1,Spain,2022-09-23 08:17:25,"This app is helpful, but it's missing some key features.",3
+iOS,iOS_7.1,Italy,2022-09-23 08:06:36,Great App but I really want the teleportation feature as soon as possible,3
+Android,Android_7.2,Poland,2022-09-23 20:07:29,That's an expectional mobile application.,4
+Web,Web_3.2,Poland,2022-09-23 07:47:35,"This app is garbage, it doesn't work and it's poorly designed.",2
+iOS,iOS_7.1,Poland,2022-09-23 12:12:03,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",3

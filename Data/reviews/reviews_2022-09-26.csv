@@ -1,6 +1,12 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.2,France,2022-09-26 08:01:21,"What a terrible app, it's full of glitches and errors.",1
-iOS,iOS_2.1,Romania,2022-09-26 08:10:31,"What a terrible app, it's full of glitches and errors.",1
-iOS,iOS_2.1,Poland,2022-09-26 08:40:52,"This app is terrible, it's not worth the time or effort to use it.",2
-Android,Android_5.2,Poland,2022-09-26 07:48:35,What a fantastic mobile app!,5
-Web,Web_5.3,Poland,2022-09-26 11:53:53,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+Android,Android_7.2,France,2022-09-26 18:02:42,"I'm a huge fan of this app, but I'm eagerly waiting for the teleportation feature to be added.",3
+Android,Android_7.2,France,2022-09-26 11:39:47,"The app is helpful, but it needs more features to be fully effective.",1
+Android,Android_7.2,Romania,2022-09-26 07:33:56,The ap is not workng for me today and it's frustratng.,1
+Web,Web_3.2,Romania,2022-09-26 12:09:39,I'm havng trouble with the ap today and I don't know why.,2
+iOS,iOS_8.0,Romania,2022-09-26 08:05:55,I can't seem to get the ap to work and it's inconvenint.,2
+Android,Android_7.2,Romania,2022-09-26 19:15:29,The ap seems to be down for me today and I can't use it.,2
+iOS,iOS_8.0,Romania,2022-09-26 08:42:36,It's frustratng that I can't acces the ap right now.,1
+Android,Android_7.2,Romania,2022-09-26 19:08:31,I'm havng dificulty conecting to the app today.,2
+Android,Android_7.2,Romania,2022-09-26 19:20:42,I can't seem to get the ap to work and I need it for work.,2
+iOS,iOS_8.0,Poland,2022-09-26 20:17:06,"The app is fantastic, but I'm eagerly anticipating the teleportation feature.",1
+Web,Web_3.2,Poland,2022-09-26 12:15:55,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

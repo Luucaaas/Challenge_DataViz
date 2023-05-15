@@ -1,4 +1,8 @@
 store,app_version,country,start_date,review,rate
-Android,Android_6.1,France,2022-12-01 08:35:05,I've never seen an app as baad as this onne.,1
-Android,Android_6.1,Germany,2022-12-01 08:26:30,"I'm really enjoying this app, but I'm eagerly waiting for the teleportation feature to become available.",3
-Android,Android_6.1,Poland,2022-12-01 18:24:45,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",3
+Android,Android_8.3,Netherlands,2022-12-01 08:32:20,"This app is completely useless, it doesn't work at all.",2
+iOS,iOS_8.1,Netherlands,2022-12-01 11:31:14,"This app is a joke, it dosn't even function properely.",2
+Android,Android_8.3,Germany,2022-12-01 13:13:08,"This app is completely dysfunctional, it's not worth the hassle.",1
+Android,Android_8.3,Germany,2022-12-01 13:31:30,"I regret downloading this app, it's a complete disaster.",1
+Android,Android_8.3,Poland,2022-12-01 12:56:01,"This app is a nightmare, it's impossible to use.",1
+iOS,iOS_8.1,Poland,2022-12-01 08:56:20,"What a disappointment, this app doesn't do anything it promises.",1
+Android,Android_8.3,Poland,2022-12-01 18:21:30,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

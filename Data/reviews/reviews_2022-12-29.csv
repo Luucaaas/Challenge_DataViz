@@ -1,6 +1,17 @@
 store,app_version,country,start_date,review,rate
-Android,Android_7.3,Romania,2022-12-29 12:33:06,"This app has potential, but it has some shortcomings in important areas.",2
-Android,Android_7.3,Spain,2022-12-29 18:55:15,"This app has potential, but it's missing some featurs that would make it exceptional.",3
-Android,Android_7.3,Germany,2022-12-29 08:25:27,What a remarcable mobile app!,5
-Android,Android_7.3,Poland,2022-12-29 20:02:28,"This app is handy, bt it's missing some crucial featurs.",3
-iOS,iOS_3.1,Poland,2022-12-29 08:13:28,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Web,Web_3.5,France,2022-12-29 11:48:22,That mobil appp is trulyy impresive.,4
+Android,Android_8.3,Romania,2022-12-29 07:36:00,I can't seem to log in to the ap and it's anoying.,1
+iOS,iOS_8.1,Romania,2022-12-29 07:55:42,I can't seem to get the ap to work and I need it for work.,1
+Web,Web_3.5,Romania,2022-12-29 19:35:47,It's frustratng that I can't conect to the ap right now.,1
+iOS,iOS_8.1,Romania,2022-12-29 19:26:32,It's frustratng that I can't acces the ap and I need it to work.,3
+Android,Android_8.3,Romania,2022-12-29 08:23:30,I'm havng truble accesing the ap today.,2
+Web,Web_3.5,Romania,2022-12-29 11:17:40,It's frustratng that I can't conect to the ap right now.,3
+Web,Web_3.5,Romania,2022-12-29 18:48:15,The ap is not workng for me today and I don't know why.,1
+iOS,iOS_8.1,Romania,2022-12-29 11:32:45,I cannot establsh a connection with the ap right now and it's frustratng.,2
+Web,Web_3.5,Romania,2022-12-29 18:11:44,The app is not accessible to me today.,2
+Web,Web_3.5,Romania,2022-12-29 12:06:06,I'm experiencing connectivity issues with the app today.,2
+iOS,iOS_8.1,Romania,2022-12-29 13:50:41,The ap seems to be down for me today and I can't use it.,1
+iOS,iOS_8.1,Germany,2022-12-29 07:55:04,"What a disaster, this app is completely broken.",2
+iOS,iOS_8.1,Germany,2022-12-29 18:35:50,That's a realy fantstic mobile aplication.,4
+Android,Android_8.3,Poland,2022-12-29 08:02:37,I've never seen an app as bad as this one.,2
+Web,Web_3.5,Poland,2022-12-29 19:10:27,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

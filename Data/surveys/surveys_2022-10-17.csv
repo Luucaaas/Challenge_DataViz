@@ -1,30 +1,55 @@
 SAT_question,SAT_answer,SAT_score,start_date,store,app_version,CES_question,CES_answer,CES_score,NPS_question,NPS_answer,NPS_score
-are you happy with you app?,very happy,100,2022-10-17 13:05:35,Android,Android_5.2,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,9,100
-are you happy with you app?,very angry,-100,2022-10-17 12:58:41,iOS,iOS_2.1,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,3,-100
-are you happy with you app?,not happy,-100,2022-10-17 07:23:37,iOS,iOS_2.1,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,5,-100
-are you happy with you app?,neutral,0,2022-10-17 10:35:24,Web,Web_5.3,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,8,0
-are you happy with you app?,very happy,100,2022-10-17 12:10:12,Web,Web_5.3,how difficult was it to purchase your product?,very easy,100,would you recommend Orange?,10,100
-are you happy with you app?,neutral,0,2022-10-17 11:21:42,Web,Web_5.3,how difficult was it to purchase your product?,easy,100,would you recommend Orange?,5,-100
-are you happy with you app?,very angry,-100,2022-10-17 08:22:34,Web,Web_5.3,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,5,-100
-are you happy with you app?,not happy,-100,2022-10-17 19:03:41,Android,Android_5.2,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,5,-100
-are you happy with you app?,happy,100,2022-10-17 07:28:42,Web,Web_5.3,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,10,100
-are you happy with you app?,neutral,0,2022-10-17 11:33:17,iOS,iOS_2.1,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,8,0
-are you happy with you app?,very happy,100,2022-10-17 12:36:55,iOS,iOS_2.1,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,10,100
-are you happy with you app?,very angry,-100,2022-10-17 11:26:42,Android,Android_5.2,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,2,-100
-are you happy with you app?,not happy,-100,2022-10-17 19:13:38,iOS,iOS_2.1,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,1,-100
-are you happy with you app?,not happy,-100,2022-10-17 07:28:57,Android,Android_5.2,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,1,-100
-are you happy with you app?,happy,100,2022-10-17 11:41:32,Web,Web_5.3,how difficult was it to purchase your product?,easy,100,would you recommend Orange?,7,0
-are you happy with you app?,not happy,-100,2022-10-17 08:34:15,Android,Android_5.2,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,1,-100
-are you happy with you app?,very angry,-100,2022-10-17 12:22:50,Android,Android_5.2,how difficult was it to purchase your product?,easy,100,would you recommend Orange?,9,100
-are you happy with you app?,neutral,0,2022-10-17 19:10:54,iOS,iOS_2.1,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,7,0
-are you happy with you app?,very angry,-100,2022-10-17 07:58:22,Android,Android_5.2,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,5,-100
-are you happy with you app?,very angry,-100,2022-10-17 11:19:39,Android,Android_5.2,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,4,-100
-are you happy with you app?,very happy,100,2022-10-17 11:55:11,Web,Web_5.3,how difficult was it to purchase your product?,very easy,100,would you recommend Orange?,9,100
-are you happy with you app?,not happy,-100,2022-10-17 12:45:44,iOS,iOS_2.1,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,6,-100
-are you happy with you app?,neutral,0,2022-10-17 11:53:01,Android,Android_5.2,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,8,0
-are you happy with you app?,not happy,-100,2022-10-17 12:19:27,Android,Android_5.2,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,5,-100
-are you happy with you app?,very angry,-100,2022-10-17 19:38:51,iOS,iOS_2.1,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,6,-100
-are you happy with you app?,very happy,100,2022-10-17 10:39:33,Web,Web_5.3,how difficult was it to purchase your product?,very easy,100,would you recommend Orange?,10,100
-are you happy with you app?,neutral,0,2022-10-17 19:35:46,Web,Web_5.3,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,8,0
-are you happy with you app?,happy,100,2022-10-17 19:01:10,iOS,iOS_2.1,how difficult was it to purchase your product?,easy,100,would you recommend Orange?,10,100
-are you happy with you app?,very happy,100,2022-10-17 12:07:29,Android,Android_5.2,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,5,-100
+are you happy with you app?,not happy,-100,2022-10-17 08:12:20,iOS,iOS_8.0,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,6,-100
+are you happy with you app?,not happy,-100,2022-10-17 18:42:24,iOS,iOS_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,6,-100
+are you happy with you app?,happy,100,2022-10-17 19:09:22,iOS,iOS_8.0,how difficult was it to purchase your product?,very easy,100,would you recommend Orange?,10,100
+are you happy with you app?,not happy,-100,2022-10-17 08:03:41,iOS,iOS_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,10,100
+are you happy with you app?,very angry,-100,2022-10-17 11:20:41,iOS,iOS_8.0,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,4,-100
+are you happy with you app?,neutral,0,2022-10-17 08:16:48,iOS,iOS_8.0,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,7,0
+are you happy with you app?,not happy,-100,2022-10-17 12:04:18,iOS,iOS_8.0,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,5,-100
+are you happy with you app?,not happy,-100,2022-10-17 11:43:20,Android,Android_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,4,-100
+are you happy with you app?,very angry,-100,2022-10-17 18:59:30,Web,Web_3.3,how difficult was it to purchase your product?,very easy,100,would you recommend Orange?,4,-100
+are you happy with you app?,happy,100,2022-10-17 07:55:47,Android,Android_8.0,how difficult was it to purchase your product?,very easy,100,would you recommend Orange?,7,0
+are you happy with you app?,happy,100,2022-10-17 11:49:00,Web,Web_3.3,how difficult was it to purchase your product?,very easy,100,would you recommend Orange?,10,100
+are you happy with you app?,neutral,0,2022-10-17 08:03:04,iOS,iOS_8.0,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,8,0
+are you happy with you app?,neutral,0,2022-10-17 07:43:26,Android,Android_8.0,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,7,0
+are you happy with you app?,neutral,0,2022-10-17 08:25:33,Android,Android_8.0,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,10,100
+are you happy with you app?,very angry,-100,2022-10-17 11:35:48,Android,Android_8.0,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,10,100
+are you happy with you app?,very angry,-100,2022-10-17 08:13:29,iOS,iOS_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,2,-100
+are you happy with you app?,neutral,0,2022-10-17 08:22:05,Android,Android_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,7,0
+are you happy with you app?,not happy,-100,2022-10-17 07:49:59,Android,Android_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,2,-100
+are you happy with you app?,happy,100,2022-10-17 19:46:16,Android,Android_8.0,how difficult was it to purchase your product?,easy,100,would you recommend Orange?,10,100
+are you happy with you app?,very angry,-100,2022-10-17 08:21:34,Android,Android_8.0,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,5,-100
+are you happy with you app?,very angry,-100,2022-10-17 19:40:15,Android,Android_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,2,-100
+are you happy with you app?,not happy,-100,2022-10-17 12:25:37,Android,Android_8.0,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,5,-100
+are you happy with you app?,happy,100,2022-10-17 20:25:36,iOS,iOS_8.0,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,9,100
+are you happy with you app?,very angry,-100,2022-10-17 12:07:27,Android,Android_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,5,-100
+are you happy with you app?,not happy,-100,2022-10-17 07:50:59,iOS,iOS_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,5,-100
+are you happy with you app?,very angry,-100,2022-10-17 18:41:23,Android,Android_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,3,-100
+are you happy with you app?,happy,100,2022-10-17 08:07:40,iOS,iOS_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,6,-100
+are you happy with you app?,neutral,0,2022-10-17 08:31:24,Web,Web_3.3,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,7,0
+are you happy with you app?,not happy,-100,2022-10-17 18:58:24,Android,Android_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,2,-100
+are you happy with you app?,very happy,100,2022-10-17 18:53:55,iOS,iOS_8.0,how difficult was it to purchase your product?,easy,100,would you recommend Orange?,9,100
+are you happy with you app?,not happy,-100,2022-10-17 12:23:26,Android,Android_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,6,-100
+are you happy with you app?,not happy,-100,2022-10-17 07:41:33,iOS,iOS_8.0,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,2,-100
+are you happy with you app?,happy,100,2022-10-17 07:30:37,Android,Android_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,4,-100
+are you happy with you app?,very angry,-100,2022-10-17 17:26:26,Android,Android_8.0,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,7,0
+are you happy with you app?,very happy,100,2022-10-17 12:07:38,Web,Web_3.3,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,10,100
+are you happy with you app?,neutral,0,2022-10-17 18:10:16,Android,Android_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,1,-100
+are you happy with you app?,very happy,100,2022-10-17 11:21:06,iOS,iOS_8.0,how difficult was it to purchase your product?,easy,100,would you recommend Orange?,9,100
+are you happy with you app?,very angry,-100,2022-10-17 08:21:59,iOS,iOS_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,1,-100
+are you happy with you app?,happy,100,2022-10-17 17:24:29,iOS,iOS_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,2,-100
+are you happy with you app?,neutral,0,2022-10-17 12:39:29,Web,Web_3.3,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,7,0
+are you happy with you app?,neutral,0,2022-10-17 18:45:37,Android,Android_8.0,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,9,100
+are you happy with you app?,happy,100,2022-10-17 19:11:51,Android,Android_8.0,how difficult was it to purchase your product?,easy,100,would you recommend Orange?,10,100
+are you happy with you app?,not happy,-100,2022-10-17 11:42:00,Android,Android_8.0,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,6,-100
+are you happy with you app?,very happy,100,2022-10-17 18:33:13,iOS,iOS_8.0,how difficult was it to purchase your product?,easy,100,would you recommend Orange?,10,100
+are you happy with you app?,neutral,0,2022-10-17 11:20:23,iOS,iOS_8.0,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,8,0
+are you happy with you app?,not happy,-100,2022-10-17 18:59:49,iOS,iOS_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,4,-100
+are you happy with you app?,very angry,-100,2022-10-17 19:12:30,iOS,iOS_8.0,how difficult was it to purchase your product?,very difficult,-100,would you recommend Orange?,1,-100
+are you happy with you app?,not happy,-100,2022-10-17 08:12:06,Android,Android_8.0,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,7,0
+are you happy with you app?,happy,100,2022-10-17 08:13:17,iOS,iOS_8.0,how difficult was it to purchase your product?,neutral,0,would you recommend Orange?,8,0
+are you happy with you app?,very angry,-100,2022-10-17 11:51:44,Android,Android_8.0,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,2,-100
+are you happy with you app?,happy,100,2022-10-17 11:37:49,iOS,iOS_8.0,how difficult was it to purchase your product?,very easy,100,would you recommend Orange?,10,100
+are you happy with you app?,very angry,-100,2022-10-17 10:48:09,iOS,iOS_8.0,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,10,100
+are you happy with you app?,very happy,100,2022-10-17 17:36:23,Web,Web_3.3,how difficult was it to purchase your product?,easy,100,would you recommend Orange?,10,100
+are you happy with you app?,very angry,-100,2022-10-17 12:03:51,Android,Android_8.0,how difficult was it to purchase your product?,difficult,-100,would you recommend Orange?,5,-100

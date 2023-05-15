@@ -1,7 +1,12 @@
 store,app_version,country,start_date,review,rate
-Web,Web_5.5,Romania,2022-12-16 11:57:54,That's an outstnding mobile applicatin.,3
-Android,Android_6.2,Germany,2022-12-16 12:54:57,"This application is usefl, but it lacks some key featurs that would make it excepcional.",2
-Android,Android_6.2,Italy,2022-12-16 08:39:48,"Thsi app is top-nothc, but I'm eagrely awating the additoin of the teleportaion featue.",3
-Android,Android_6.2,Poland,2022-12-16 13:01:04,"This ap is practicl, but it's laking some essntial featurs.",4
-iOS,iOS_3.1,Poland,2022-12-16 12:06:24,"This app is compleetely usless, it dosent work at all.",1
-Android,Android_6.2,Poland,2022-12-16 11:26:45,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+Android,Android_8.3,France,2022-12-16 20:33:57,"This app is a disaster, it's riddled with bugs and issues.",1
+Android,Android_8.3,France,2022-12-16 08:12:36,"What a waste of time, this ap is not working at all.",2
+iOS,iOS_8.1,Spain,2022-12-16 12:10:49,"I'm a huge fan of this app, but I'm eagerly waiting for the teleportation feature to be added.",3
+Android,Android_8.3,Germany,2022-12-16 12:08:48,"This app is completely useless, it doesn't work at all.",1
+Web,Web_3.5,Italy,2022-12-16 12:50:25,"What a disaster, this app is completely broken.",1
+Android,Android_8.3,Italy,2022-12-16 19:17:29,"This app is helpful, but it's missing some key features.",2
+Android,Android_8.3,Italy,2022-12-16 10:14:20,"This app is completely dysfunctional, it's not worth the hassle.",1
+iOS,iOS_8.1,Poland,2022-12-16 08:45:08,"The ap is functionl, bt it's missng some featurs that would make it more efficint.",3
+Web,Web_3.5,Poland,2022-12-16 18:55:57,"This ap is garbaje, it dosn't worke and it's poorly desgined.",2
+iOS,iOS_8.1,Poland,2022-12-16 11:51:52,"This application is good, but there are some features missing that could make it great.",3
+Web,Web_3.5,Poland,2022-12-16 11:55:27,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

@@ -1,13 +1,9 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_2.0,France,2022-08-13 07:33:12,"What a piece of junk, this app is completely broken.",1
-Android,Android_5.1,France,2022-08-13 12:01:41,This ap is really outstandng.,5
-Android,Android_5.1,France,2022-08-13 12:48:17,"This app has potential, but it needs more features to really shine.",1
-Android,Android_5.1,France,2022-08-13 12:12:32,"The app is amazing, but I'm really looking forward to the teleportation feature.",4
-Web,Web_5.1,France,2022-08-13 12:43:31,This app is realy outstending.,5
-Android,Android_5.1,Romania,2022-08-13 19:48:30,What a remrakble mobile ap.,2
-Android,Android_5.1,Spain,2022-08-13 19:41:08,"While this ap has its uses, it's missing some key featurs that could make it gr8.",4
-Android,Android_5.1,Germany,2022-08-13 11:54:28,Great App but I really want the teleportation feature as soon as possible,5
-iOS,iOS_2.0,Germany,2022-08-13 19:37:52,"This application is useful, bt it could be more versatile with additional featurs.",4
-Android,Android_5.1,Italy,2022-08-13 08:12:57,"This app is useful, bt it could be more comprehensive with some additional featurs.",4
-iOS,iOS_2.0,Italy,2022-08-13 18:32:41,"This appliaction is functional, but it's missng sum key featurs that wud make it exceptional.",2
-Android,Android_5.1,Poland,2022-08-13 11:17:29,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Android,Android_6.2.1,France,2022-08-13 07:37:40,"This appliaction is good, bt there are some featurs missng that could make it gr8.",4
+Android,Android_6.2.1,France,2022-08-13 12:03:32,This app is trully remarkabel.,3
+Android,Android_6.2.1,Germany,2022-08-13 08:09:16,This is a top-natch mobile app.,5
+Android,Android_6.2.1,Germany,2022-08-13 08:15:37,This is a top-nutch mobile app!,5
+Android,Android_6.2.1,Germany,2022-08-13 08:08:38,"This ap is awsome, but I'm eagrely wating for the teleportation feture.",4
+Web,Web_3.1,Poland,2022-08-13 19:49:48,"This app is garbage, it doesn't work and it's poorly designed.",2
+Android,Android_6.2.1,Poland,2022-08-13 12:35:32,This is an incrediblly well-designed mobile app.,5
+iOS,iOS_7.1,Poland,2022-08-13 18:23:13,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

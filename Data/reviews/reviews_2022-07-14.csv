@@ -1,6 +1,7 @@
 store,app_version,country,start_date,review,rate
-Web,Web_5.1,Czech Republic,2022-07-14 17:10:11,"What a waste of time, this app doesn't work at all.",5
-Android,Android_5.0,Germany,2022-07-14 08:26:24,"What a piece of junk, this app is completely broken.",1
-iOS,iOS_2.0,Germany,2022-07-14 19:05:19,"What a terrible app, it's full of glitches and errors.",1
-iOS,iOS_2.0,Poland,2022-07-14 12:22:49,This mobil appp is incredibly impressive!,4
-Android,Android_5.0,Poland,2022-07-14 08:30:03,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",3
+iOS,iOS_7.0,France,2022-07-14 11:57:24,I've never saw an app as bad as this one.,2
+Web,Web_3.0,Germany,2022-07-14 08:00:25,That mobile app is phenomenal.,4
+iOS,iOS_7.0,Germany,2022-07-14 17:27:53,"This app is garbage, it doesn't work and it's poorly designed.",2
+Android,Android_6.0,Italy,2022-07-14 08:28:10,"This app is a totel failiure, it doesnt do anything right.",2
+Android,Android_6.0,Italy,2022-07-14 18:15:50,That mobile app is simply superb.,5
+iOS,iOS_7.0,Poland,2022-07-14 12:20:31,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

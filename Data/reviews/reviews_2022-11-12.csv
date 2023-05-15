@@ -1,12 +1,36 @@
 store,app_version,country,start_date,review,rate
-Android,Android_6.0.1,France,2022-11-12 18:57:30,I've never seen an app as bad as this one.,2
-iOS,iOS_3.0,France,2022-11-12 19:18:20,I can't believe how terrible this app is.,2
-Android,Android_6.0.1,Romania,2022-11-12 08:23:12,This app is truley outstanding.,5
-Android,Android_6.0.1,Spain,2022-11-12 11:35:07,"This application is functional, but it's missing some key features that would make it exceptional.",3
-iOS,iOS_3.0,Netherlands,2022-11-12 07:58:55,"While this app has its uses, it falls short in some important areas.",4
-iOS,iOS_3.0,Germany,2022-11-12 19:48:49,"While this app has its uses, it falls short in some important areas.",4
-Web,Web_5.4,Germany,2022-11-12 19:05:31,"This app has potential, but it needs more features to really shine.",3
-Web,Web_5.4,Germany,2022-11-12 08:12:16,"This app is helpful, but it's missing some key features.",3
-iOS,iOS_3.0,Italy,2022-11-12 12:10:05,"While this app has its uses, it falls short in some important areas.",3
-Android,Android_6.0.1,Italy,2022-11-12 19:16:28,"This application is practical, bt it could be even better with more featurs.",2
-iOS,iOS_3.0,Poland,2022-11-12 20:09:28,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+iOS,iOS_8.1,France,2022-11-12 11:50:31,That moble appp is simply superb.,5
+Web,Web_3.4,Romania,2022-11-12 08:04:33,"This app is horrible, it's not even worth downloading.",2
+Android,Android_8.2,Spain,2022-11-12 12:06:18,"Wht a dsisaster, this app is comletely brokn.",1
+iOS,iOS_8.1,Germany,2022-11-12 18:59:03,This app is realy impresive.,3
+Web,Web_3.4,Germany,2022-11-12 07:36:26,"The app is fantastic, but I'm eagerly anticipating the teleportation feature.",4
+Android,Android_8.2,Germany,2022-11-12 07:13:05,This ap is simply amazing!,4
+Android,Android_8.2,Italy,2022-11-12 18:54:22,The ap is not functionng for me today and I'm not sure why.,3
+Web,Web_3.4,Italy,2022-11-12 11:26:30,The ap seems to be down for me today and I can't use it.,1
+iOS,iOS_8.1,Italy,2022-11-12 11:50:11,I am unable to connect to the app at the moment.,1
+iOS,iOS_8.1,Italy,2022-11-12 08:14:46,I can't seem to conect to the app today for some reason.,1
+Web,Web_3.4,Italy,2022-11-12 12:25:51,I am unble to conect to the ap at the momnt and it's anoying.,1
+Android,Android_8.2,Italy,2022-11-12 08:05:36,The ap is not functionng for me today and I'm not sure why.,4
+Web,Web_3.4,Italy,2022-11-12 08:00:16,I can't seem to log in to the ap and it's anoying.,2
+Android,Android_8.2,Italy,2022-11-12 08:26:58,I'm havng dificulty conecting to the app today.,2
+iOS,iOS_8.1,Italy,2022-11-12 11:43:07,I can't seem to get the ap to work and I need it for work.,5
+iOS,iOS_8.1,Italy,2022-11-12 08:14:35,The app is not working for me today.,1
+Android,Android_8.2,Italy,2022-11-12 19:59:34,I am unble to conect to the ap at the momnt and it's anoying.,2
+iOS,iOS_8.1,Italy,2022-11-12 07:57:52,The ap is not respondng to my attempts to conect and it's irritatng.,5
+Android,Android_8.2,Italy,2022-11-12 18:54:46,I can't seem to get the ap to work and I need it.,3
+iOS,iOS_8.1,Italy,2022-11-12 18:19:22,I'm havng truble accesing the ap today.,3
+Web,Web_3.4,Italy,2022-11-12 08:48:49,The app is not accessible to me today.,1
+Android,Android_8.2,Italy,2022-11-12 18:57:14,I'm unable to log in to the app today.,2
+Web,Web_3.4,Italy,2022-11-12 07:54:20,The ap seems to be down for me today and I can't use it.,1
+Android,Android_8.2,Italy,2022-11-12 12:01:47,I'm unable to log in to the app today.,3
+Android,Android_8.2,Italy,2022-11-12 11:11:44,I'm havng truble with the ap today and it's a problem.,1
+iOS,iOS_8.1,Italy,2022-11-12 08:03:56,The app is not working for me today.,2
+Android,Android_8.2,Italy,2022-11-12 18:40:52,The ap is not respondng to my attempts to conect and it's irritatng.,1
+Android,Android_8.2,Italy,2022-11-12 19:34:34,I'm havng trouble with the ap today and I don't know why.,3
+Web,Web_3.4,Italy,2022-11-12 08:06:17,I cannot establsh a connection with the ap right now and it's frustratng.,2
+Android,Android_8.2,Italy,2022-11-12 08:03:04,The app is not working for me today.,1
+Web,Web_3.4,Italy,2022-11-12 20:02:23,I'm havng dificulty accesing the ap today and I need it to work.,1
+iOS,iOS_8.1,Italy,2022-11-12 11:38:17,I can't seem to get the ap to work and it's inconvenint.,2
+Web,Web_3.4,Italy,2022-11-12 19:49:26,I can't seem to get the ap to work and I need it.,1
+Android,Android_8.2,Poland,2022-11-12 08:10:26,"What a disaster, this app is completely broken.",1
+iOS,iOS_8.1,Poland,2022-11-12 19:29:38,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

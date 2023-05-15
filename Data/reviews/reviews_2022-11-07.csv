@@ -1,3 +1,7 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_3.0,Spain,2022-11-07 20:00:14,"I regret downloadig this app, it's a complete desaster.",1
-iOS,iOS_3.0,Poland,2022-11-07 18:21:09,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+iOS,iOS_8.1,Spain,2022-11-07 18:23:54,I've never seen an app as bad as this one.,1
+iOS,iOS_8.1,Poland,2022-11-07 20:18:30,This mobile app is truly outstanding.,4
+iOS,iOS_8.1,Poland,2022-11-07 07:57:13,That's an excellent mobile application.,3
+iOS,iOS_8.1,Poland,2022-11-07 08:10:40,"This app is completely useless, it doesn't work at all.",1
+iOS,iOS_8.1,Poland,2022-11-07 12:12:34,This app is a complete mess.,1
+iOS,iOS_8.1,Poland,2022-11-07 12:00:55,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

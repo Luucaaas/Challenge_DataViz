@@ -1,11 +1,8 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.2,France,2022-09-18 20:32:00,"This app is garbage, it doesn't work and it's poorly designed.",2
-iOS,iOS_2.1,Netherlands,2022-09-18 07:42:27,The ap is not respondng to my attempts to conect and it's irritatng.,1
-Android,Android_5.2,Netherlands,2022-09-18 07:58:53,I'm havng dificulty conecting to the app today.,3
-Android,Android_5.2,Netherlands,2022-09-18 08:36:34,The app is not workng for me today and I don't know why.,1
-Android,Android_5.2,Netherlands,2022-09-18 08:26:00,The app is not responding to my attempts to connect.,3
-iOS,iOS_2.1,Netherlands,2022-09-18 11:11:27,I'm unble to log in to the ap today and it's causng problems.,2
-iOS,iOS_2.1,Germany,2022-09-18 07:46:11,This is an exceptional mobile application.,4
-Android,Android_5.2,Italy,2022-09-18 08:02:27,"I regret downloading this app, it's a complete disaster.",2
-iOS,iOS_2.1,Poland,2022-09-18 18:46:40,"I'm extremely dissatisfied with this app, it's not functional at all.",1
-Android,Android_5.2,Poland,2022-09-18 11:24:19,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Android,Android_7.2,France,2022-09-18 08:35:30,"This application is practical, bt it could be even better with more featurs.",2
+Android,Android_7.2,Spain,2022-09-18 13:02:32,This app is a disaster.,1
+iOS,iOS_7.1,Germany,2022-09-18 07:48:39,"I love this app, but the teleportation feature is what I'm really after.",3
+Web,Web_3.2,Italy,2022-09-18 20:39:14,"What a disappointment, this app doesn't do anything it promises.",2
+Android,Android_7.2,Poland,2022-09-18 12:08:48,That's an excetional mobile application.,5
+iOS,iOS_7.1,Poland,2022-09-18 08:16:30,"This application is ok, but it could be improved with additional featurs.",4
+Android,Android_7.2,Poland,2022-09-18 18:03:38,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

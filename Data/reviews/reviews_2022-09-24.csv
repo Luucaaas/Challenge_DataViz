@@ -1,11 +1,10 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.2,France,2022-09-24 20:55:40,"This ap is a dsaster, it's riddled with buigs and isssues.",1
-iOS,iOS_2.1,France,2022-09-24 07:37:23,That's an outsanding mobile application.,5
-Web,Web_5.3,France,2022-09-24 12:15:03,That mobile app is phenomenal.,5
-Web,Web_5.3,Romania,2022-09-24 11:21:25,This app is simpely amezing.,4
-Android,Android_5.2,Spain,2022-09-24 19:14:32,I can't believe how terrible this app is.,2
-Android,Android_5.2,Netherlands,2022-09-24 12:18:08,"This app is a total failure, it doesn't do anything right.",2
-Android,Android_5.2,Italy,2022-09-24 12:33:48,"This app is terrible, it's not worth the time or effort to use it.",1
-Web,Web_5.3,Poland,2022-09-24 08:26:12,This mobile app is incredibly impressive.,5
-Web,Web_5.3,Poland,2022-09-24 10:49:05,"The app is great, but I can't wait for the teleportation feature to be added.",4
-Web,Web_5.3,Poland,2022-09-24 11:32:04,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+iOS,iOS_7.1,France,2022-09-24 12:30:12,"While this app has its uses, it falls short in some important areas.",3
+Android,Android_7.2,Romania,2022-09-24 19:23:16,"This ap is terible, it's not worth the tim or effor to use it.",1
+Android,Android_7.2,Spain,2022-09-24 18:32:23,"The app is useful, but it lacks some essntial featurs.",3
+iOS,iOS_7.1,Spain,2022-09-24 18:40:33,"I'm really enjoying this app, but I'm eagerly waiting for the teleportation feature to become available.",5
+Web,Web_3.2,Netherlands,2022-09-24 12:00:31,"What a piece of junk, this app is completely broken.",1
+Android,Android_7.2,Czech Republic,2022-09-24 11:43:59,"What a dsaster, this app is completey brokin.",2
+iOS,iOS_7.1,Germany,2022-09-24 07:20:27,"What a waste of time, this app doesn't work at all.",2
+Android,Android_7.2,Poland,2022-09-24 20:50:28,"This app is handy, bt it's missing some crucial featurs.",3
+iOS,iOS_7.1,Poland,2022-09-24 12:10:38,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

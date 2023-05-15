@@ -1,63 +1,6 @@
 store,app_version,country,start_date,review,rate
-Web,Web_5.1,France,2022-08-20 11:57:17,I can't believe how terrible this app is.,1
-Android,Android_5.1,Spain,2022-08-20 08:06:14,That mobile app is simplly superb.,5
-Android,Android_5.1,Germany,2022-08-20 18:10:46,"What a terrible app, it's full of glitches and errors.",2
-Android,Android_5.1,Germany,2022-08-20 11:32:57,I can't seem to get the ap to work for me today.,2
-iOS,iOS_2.0,Germany,2022-08-20 19:01:20,I can't seem to get the ap to work and it's inconvenint.,1
-Android,Android_5.1,Germany,2022-08-20 07:55:58,It's inconvenint that I'm havng truble conecting to the ap today.,1
-Web,Web_5.1,Germany,2022-08-20 11:21:55,The app seems to be down for me today.,2
-Web,Web_5.1,Germany,2022-08-20 07:47:41,The app is not accessible to me today.,4
-iOS,iOS_2.0,Germany,2022-08-20 07:20:34,The ap is not respondng to my attempts to conect and it's irritatng.,1
-Android,Android_5.1,Germany,2022-08-20 08:05:28,It's irritatng that I can't use the ap right now.,1
-iOS,iOS_2.0,Germany,2022-08-20 11:31:36,I'm experiencing connectivity issues with the app today.,3
-iOS,iOS_2.0,Germany,2022-08-20 12:11:57,It's irritatng that I can't use the ap right now.,1
-Web,Web_5.1,Germany,2022-08-20 07:54:11,I'm experiencing connectivity issues with the app today.,2
-Android,Android_5.1,Germany,2022-08-20 07:22:46,The app seems to be down for me today.,3
-Web,Web_5.1,Germany,2022-08-20 12:20:48,I cannot establish a connection with the app right now.,1
-iOS,iOS_2.0,Germany,2022-08-20 12:03:47,I'm experiencing connectivity issues with the app today.,1
-Web,Web_5.1,Germany,2022-08-20 08:14:58,I can't seem to get the ap to work and it's inconvenint.,3
-Android,Android_5.1,Germany,2022-08-20 12:45:53,The app is not responding to my attempts to connect.,1
-Android,Android_5.1,Germany,2022-08-20 18:00:17,I'm unable to log in to the app today.,1
-Android,Android_5.1,Germany,2022-08-20 07:26:51,I'm having difficulty accessing the app today.,1
-Web,Web_5.1,Germany,2022-08-20 08:22:30,I can't seem to get the ap to work for me today.,1
-iOS,iOS_2.0,Germany,2022-08-20 08:20:17,It's inconvenint that I'm havng truble conecting to the ap today.,1
-iOS,iOS_2.0,Germany,2022-08-20 12:43:58,I'm havng dificulty conecting to the ap today and I don't know why.,1
-Android,Android_5.1,Germany,2022-08-20 06:55:15,The ap is not respondng to my attempts to conect and it's irritatng.,2
-Web,Web_5.1,Germany,2022-08-20 21:45:16,The app is not workng for me today and I don't know why.,1
-Android,Android_5.1,Germany,2022-08-20 18:07:35,The ap is not functionng for me today and I'm not sure why.,3
-Android,Android_5.1,Germany,2022-08-20 08:10:29,The ap is not accesible to me today and it's anoying.,2
-Android,Android_5.1,Germany,2022-08-20 07:43:46,I'm unable to log in to the app today.,1
-Android,Android_5.1,Germany,2022-08-20 10:24:39,I cannot establsh a connection with the ap right now and it's frustratng.,2
-iOS,iOS_2.0,Germany,2022-08-20 19:30:27,The app is not accessible to me today.,1
-Web,Web_5.1,Germany,2022-08-20 08:42:04,I am unble to conect to the ap at the momnt and it's anoying.,3
-Android,Android_5.1,Germany,2022-08-20 08:07:22,I'm havng dificulty accesing the ap today and I need it to work.,1
-Web,Web_5.1,Germany,2022-08-20 16:53:44,The app seems to be down for me today.,1
-iOS,iOS_2.0,Germany,2022-08-20 17:50:10,The app is not responding to my attempts to connect.,2
-Web,Web_5.1,Germany,2022-08-20 11:49:58,The app seems to be down for me today.,2
-Android,Android_5.1,Germany,2022-08-20 07:39:22,I'm havng dificulty conecting to the app today.,3
-Android,Android_5.1,Germany,2022-08-20 18:11:32,I'm frustratd that I can't use the ap right now.,1
-Web,Web_5.1,Germany,2022-08-20 07:43:21,It's irritatng that I can't use the ap right now.,1
-Android,Android_5.1,Germany,2022-08-20 07:29:43,I am unable to connect to the app at the moment.,2
-Android,Android_5.1,Germany,2022-08-20 08:07:08,I'm having trouble accessing the app today.,1
-iOS,iOS_2.0,Germany,2022-08-20 19:33:22,I'm experiencing connectivity issues with the app today.,1
-iOS,iOS_2.0,Germany,2022-08-20 08:11:34,The ap is not respondng to my attempts to conect and it's irritatng.,2
-Web,Web_5.1,Germany,2022-08-20 20:19:41,The app seems to be down for me today.,2
-Web,Web_5.1,Germany,2022-08-20 08:29:34,The ap is not workng for me and I need it to.,2
-Web,Web_5.1,Germany,2022-08-20 18:18:23,I'm havng trouble with the ap today and I don't know why.,2
-iOS,iOS_2.0,Germany,2022-08-20 18:45:06,I'm havng dificulty accesing the ap today and I need it to work.,2
-Android,Android_5.1,Germany,2022-08-20 07:49:15,I'm frustratd that I can't use the ap right now.,2
-iOS,iOS_2.0,Germany,2022-08-20 07:05:49,It's frustratng that I can't acces the ap and I need it to work.,2
-iOS,iOS_2.0,Germany,2022-08-20 08:23:22,The app is not workng for me today and I don't know why.,2
-iOS,iOS_2.0,Germany,2022-08-20 07:55:45,It's frustratng that I can't conect to the ap right now.,2
-Android,Android_5.1,Germany,2022-08-20 08:06:12,It's frustratng that I can't acces the ap and I need it to work.,2
-iOS,iOS_2.0,Germany,2022-08-20 08:12:57,I can't seem to conect to the app today for some reason.,1
-Android,Android_5.1,Germany,2022-08-20 08:35:53,I cannot establsh a connection with the ap right now and it's frustratng.,4
-Android,Android_5.1,Germany,2022-08-20 07:40:49,The app is not accessible to me today.,2
-Android,Android_5.1,Germany,2022-08-20 19:07:58,The ap is not accesible to me today and it's anoying.,2
-iOS,iOS_2.0,Germany,2022-08-20 08:06:31,It's frustratng that I can't acces the ap and I need it to work.,2
-Android,Android_5.1,Germany,2022-08-20 11:22:49,I'm havng truble with the ap today and it's a problem.,1
-Android,Android_5.1,Germany,2022-08-20 07:33:55,The ap is not workng for me today and it's frustratng.,1
-iOS,iOS_2.0,Germany,2022-08-20 18:00:54,I'm experiencing connectivity issues with the app today.,2
-Web,Web_5.1,Germany,2022-08-20 11:38:50,The ap is not workng for me today and I don't know why.,1
-iOS,iOS_2.0,Germany,2022-08-20 08:11:57,It's irritatng that I can't use the ap right now.,1
-Android,Android_5.1,Poland,2022-08-20 18:18:01,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+iOS,iOS_7.1,France,2022-08-20 17:34:05,"The application is serviceable, but it's lacking some features that would make it stand out.",3
+iOS,iOS_7.1,Romania,2022-08-20 20:35:42,"This application is practical, bt it could be even better with more featurs.",3
+iOS,iOS_7.1,Poland,2022-08-20 19:28:43,"While this ap is useful, it could be better with some additional featurs.",3
+Android,Android_7.0,Poland,2022-08-20 11:38:51,This mobil appp is incredibly impressive!,4
+Web,Web_3.1,Poland,2022-08-20 18:13:00,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

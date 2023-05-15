@@ -1,7 +1,28 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.0,France,2022-07-13 18:53:55,This app is a disaster.,1
-Android,Android_5.0,France,2022-07-13 11:57:24,This app is a disaster.,2
-Web,Web_5.1,Germany,2022-07-13 19:27:21,"I regert downloading this app, its a compleet disater.",2
-Android,Android_5.0,Italy,2022-07-13 07:47:26,"What a peice of junk, this app is completely brocken.",3
-Web,Web_5.1,Poland,2022-07-13 08:27:09,"This ap has potential, but it could use additional featurs to reach its full potential.",3
-iOS,iOS_2.0,Poland,2022-07-13 11:42:27,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+Web,Web_3.0,France,2022-07-13 18:20:52,That's an excpcional mobile app!,4
+iOS,iOS_7.0,Czech Republic,2022-07-13 11:36:08,I am unable to connect to the app at the moment.,2
+iOS,iOS_7.0,Czech Republic,2022-07-13 08:09:10,The ap is not respondng to my attempts to conect and it's irritatng.,1
+iOS,iOS_7.0,Czech Republic,2022-07-13 18:34:02,The ap is not workng for me today and I don't know why.,2
+Android,Android_6.0,Czech Republic,2022-07-13 16:27:41,I am unable to connect to the app at the moment.,3
+iOS,iOS_7.0,Czech Republic,2022-07-13 08:30:00,I am unble to conect to the ap at the momnt and it's anoying.,1
+Android,Android_6.0,Czech Republic,2022-07-13 11:53:46,It's frustratng that I can't acces the ap right now.,5
+Android,Android_6.0,Czech Republic,2022-07-13 07:39:29,It's frustratng that I can't conect to the ap right now.,1
+Web,Web_3.0,Czech Republic,2022-07-13 07:41:01,The app seems to be down for me today.,1
+Android,Android_6.0,Czech Republic,2022-07-13 11:47:13,I'm frustratd that I can't use the ap right now.,4
+Android,Android_6.0,Czech Republic,2022-07-13 12:27:31,The ap is not functionng for me today and I'm not sure why.,5
+Web,Web_3.0,Czech Republic,2022-07-13 12:28:25,I can't seem to get the ap to work and I need it.,1
+Web,Web_3.0,Czech Republic,2022-07-13 18:54:58,The app seems to be down for me today.,2
+Android,Android_6.0,Czech Republic,2022-07-13 11:28:04,I'm havng truble with the ap today and it's a problem.,1
+Android,Android_6.0,Czech Republic,2022-07-13 12:11:28,I'm havng truble with the ap today and it's a problem.,2
+iOS,iOS_7.0,Czech Republic,2022-07-13 07:28:41,The app is not accessible to me today.,1
+Android,Android_6.0,Czech Republic,2022-07-13 11:03:48,The ap is not workng for me and I need it to.,4
+Web,Web_3.0,Czech Republic,2022-07-13 19:01:14,The ap is not respondng to my attempts to conect and it's irritatng.,1
+Android,Android_6.0,Germany,2022-07-13 08:02:28,That mobile ap is phenominal.,4
+Web,Web_3.0,Germany,2022-07-13 19:13:15,"I'm impresed with this app, but the telportation feature is wht I'm most exitd about.",5
+Android,Android_6.0,Germany,2022-07-13 08:35:38,"I luv this ap, but the teleportation feture is what I'm really after.",5
+Android,Android_6.0,Germany,2022-07-13 17:54:56,"This app is a joke, it doesn't even function propely.",2
+Web,Web_3.0,Germany,2022-07-13 07:33:02,That's an outstanding mobile application.,5
+iOS,iOS_7.0,Germany,2022-07-13 08:32:03,"I'm a huge fan of this app, but I'm eagerly waiting for the teleportation feature to be added.",4
+iOS,iOS_7.0,Poland,2022-07-13 18:40:34,"This app is completely dysfunctional, it's not worth the hassle.",2
+Android,Android_6.0,Poland,2022-07-13 18:37:19,That mobile app is simply superb.,5
+iOS,iOS_7.0,Poland,2022-07-13 07:45:35,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

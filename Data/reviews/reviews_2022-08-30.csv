@@ -1,3 +1,13 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_2.0,Poland,2022-08-30 07:45:47,"What a disappointment, this app doesn't do anything it promises.",1
-Android,Android_5.1,Poland,2022-08-30 18:28:48,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",3
+iOS,iOS_7.1,Spain,2022-08-30 11:59:51,"This app is decent, but it could use some additional features to make it better.",3
+Android,Android_7.0,Italy,2022-08-30 07:44:50,I am unble to conect to the ap at the momnt and it's anoying.,1
+iOS,iOS_7.1,Italy,2022-08-30 07:57:57,I can't seem to get the ap to work and it's inconvenint.,2
+Android,Android_7.0,Italy,2022-08-30 19:41:43,I'm having trouble accessing the app today.,1
+Android,Android_7.0,Italy,2022-08-30 11:48:52,It's frustratng that I can't acces the ap and I need it to work.,1
+Web,Web_3.1,Italy,2022-08-30 07:48:40,It's frustratng that I can't acces the ap and I need it to work.,1
+Web,Web_3.1,Italy,2022-08-30 08:29:31,I can't seem to get the ap to work and it's inconvenint.,1
+Web,Web_3.1,Italy,2022-08-30 11:01:34,The app is not accessible to me today.,1
+Android,Android_7.0,Italy,2022-08-30 08:27:33,I can't seem to get the ap to work and I need it.,1
+Android,Android_7.0,Poland,2022-08-30 11:56:17,This is a top-notcch mobile application.,3
+Web,Web_3.1,Poland,2022-08-30 07:38:40,"This app is completely useless, it doesn't work at all.",1
+Web,Web_3.1,Poland,2022-08-30 07:24:12,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

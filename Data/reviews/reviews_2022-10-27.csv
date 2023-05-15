@@ -1,5 +1,4 @@
 store,app_version,country,start_date,review,rate
-Android,Android_6.0.1,France,2022-10-27 12:38:36,That's an excelt mobile app.,5
-Android,Android_6.0.1,Spain,2022-10-27 08:01:45,"While this app is practical, it could benefit from more features to make it more versatile.",4
-Web,Web_5.4,Italy,2022-10-27 13:14:35,That's a really awsome mobile app!,4
-Web,Web_5.4,Poland,2022-10-27 18:30:11,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Android,Android_8.1,Spain,2022-10-27 13:06:44,"This application is functional, but it's missing some key features that would make it exceptional.",3
+Android,Android_8.1,Germany,2022-10-27 17:51:16,This is an eceptional mobile application.,5
+Android,Android_8.1,Poland,2022-10-27 19:32:45,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

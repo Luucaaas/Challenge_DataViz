@@ -1,7 +1,2 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_3.0,Romania,2022-11-14 11:38:43,"The ap is fantasic, but I'm eagrely antipating the teleportation feture.",3
-iOS,iOS_3.0,Germany,2022-11-14 19:39:03,"What a waste of time, this app doesn't work at all.",3
-Android,Android_6.0.1,Italy,2022-11-14 11:24:35,"While this app is usefl, it's not as comprehensiv as it could be.",2
-iOS,iOS_3.0,Poland,2022-11-14 11:50:54,"This aplication has some value, bt it could use some improvemnts to be more comprehensive.",2
-iOS,iOS_3.0,Poland,2022-11-14 12:07:45,"Th app is helpful, bt it nedz more featurs to be fully effectiv.",3
-Web,Web_5.4,Poland,2022-11-14 07:46:53,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+Web,Web_3.4,Poland,2022-11-14 07:44:13,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

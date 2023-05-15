@@ -1,9 +1,11 @@
 store,app_version,country,start_date,review,rate
-Android,Android_7.3,France,2023-01-04 18:52:10,That's a really fantasic mobile app!,5
-Web,Web_5.5,Romania,2023-01-04 11:53:48,That's an excetional mobile application.,5
-Android,Android_7.3,Spain,2023-01-04 08:03:45,That mobile app is truly impressive.,5
-iOS,iOS_3.1,Netherlands,2023-01-04 08:13:24,This app is a complete mess.,5
-Web,Web_5.5,Netherlands,2023-01-04 11:43:15,That mobile app is truly impressive.,3
-iOS,iOS_3.1,Germany,2023-01-04 07:28:56,"This ap is top-notch, but I'm eagrly awaitng the addition of the teleportation feture.",3
-iOS,iOS_3.1,Poland,2023-01-04 07:49:37,"This app is a joke, it doesn't even function properly.",1
-Android,Android_7.3,Poland,2023-01-04 07:21:14,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+Android,Android_8.3,France,2023-01-04 08:10:25,I can't believe how terrible this app is.,1
+Android,Android_8.3,France,2023-01-04 07:33:24,"I'm extremely dissatisfied with this app, it's not functional at all.",1
+Web,Web_3.5,Czech Republic,2023-01-04 07:44:46,"This app is garbage, it doesn't work and it's poorly designed.",4
+Web,Web_3.5,Czech Republic,2023-01-04 08:12:02,"The app is fantastic, but I'm eagerly anticipating the teleportation feature.",3
+iOS,iOS_8.1,Germany,2023-01-04 08:22:16,I'v never seen an app as bad as this on.,1
+iOS,iOS_8.1,Germany,2023-01-04 11:49:27,"This app is a joke, it doesn't even function properly.",1
+iOS,iOS_8.1,Germany,2023-01-04 18:00:12,"This app is a joke, it doesn't even function propely.",2
+Web,Web_3.5,Italy,2023-01-04 20:07:54,"Thsi appp is a nightmre, it impsosible to use.",2
+Android,Android_8.3,Poland,2023-01-04 11:59:34,This mobile app is truly outstanding.,5
+Android,Android_8.3,Poland,2023-01-04 12:03:14,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

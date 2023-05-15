@@ -1,36 +1,7 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_2.0,France,2022-08-04 18:22:53,"I regret downloading this app, it's a complete disastor.",1
-iOS,iOS_2.0,Spain,2022-08-04 07:33:14,This app is simply amasingg.,4
-iOS,iOS_2.0,Italy,2022-08-04 18:21:10,I cannot establsh a connection with the ap right now and it's frustratng.,1
-Android,Android_5.1,Italy,2022-08-04 08:17:14,It's frustratng that I can't acces the ap and I need it to work.,1
-Android,Android_5.1,Italy,2022-08-04 18:27:59,The app is not accessible to me today.,1
-Web,Web_5.1,Italy,2022-08-04 12:35:27,I'm having trouble accessing the app today.,1
-iOS,iOS_2.0,Italy,2022-08-04 11:29:53,I'm unble to log in to the ap today and it's causng problems.,1
-iOS,iOS_2.0,Italy,2022-08-04 12:40:18,I cannot establsh a connection with the ap right now and it's frustratng.,2
-Web,Web_5.1,Italy,2022-08-04 12:00:24,I'm having difficulty accessing the app today.,1
-Web,Web_5.1,Italy,2022-08-04 18:49:03,I'm havng trouble with the ap today and I don't know why.,2
-Android,Android_5.1,Italy,2022-08-04 07:31:18,It's frustratng that I can't acces the ap right now.,2
-iOS,iOS_2.0,Italy,2022-08-04 18:44:15,I can't seem to get the ap to work for me today.,2
-Android,Android_5.1,Italy,2022-08-04 19:50:34,I'm havng trouble with the ap today and I don't know why.,1
-Android,Android_5.1,Italy,2022-08-04 20:11:59,It's inconvenint that I'm havng truble conecting to the ap today.,3
-iOS,iOS_2.0,Italy,2022-08-04 11:06:23,I'm unable to log in to the app today.,3
-Android,Android_5.1,Italy,2022-08-04 07:21:15,It's frustratng that I can't acces the ap right now.,1
-iOS,iOS_2.0,Italy,2022-08-04 20:28:50,I'm havng dificulty conecting to the app today.,2
-iOS,iOS_2.0,Italy,2022-08-04 12:34:11,The app is not accessible to me today.,1
-Web,Web_5.1,Italy,2022-08-04 18:48:48,The ap seems to be down for me today and I can't use it.,2
-Android,Android_5.1,Italy,2022-08-04 19:04:47,The ap is not accesible to me today and it's anoying.,2
-Android,Android_5.1,Italy,2022-08-04 20:07:55,I'm havng truble with the ap today and it's a problem.,1
-Web,Web_5.1,Italy,2022-08-04 08:40:16,The ap is not workng for me today and I don't know why.,1
-iOS,iOS_2.0,Italy,2022-08-04 18:21:01,The ap seems to be down for me today and I can't use it.,1
-iOS,iOS_2.0,Italy,2022-08-04 08:35:21,I'm havng dificulty conecting to the ap today and I don't know why.,1
-Web,Web_5.1,Italy,2022-08-04 12:03:27,It's frustratng that I can't acces the ap right now.,2
-Android,Android_5.1,Italy,2022-08-04 08:05:29,It's frustratng that I can't conect to the ap right now.,1
-Android,Android_5.1,Italy,2022-08-04 13:11:22,It's irritatng that I can't use the ap right now.,1
-Android,Android_5.1,Italy,2022-08-04 12:26:22,I'm experincing conectivity issues with the ap today and it's inconvenint.,2
-Android,Android_5.1,Italy,2022-08-04 18:11:39,I can't seem to conect to the app today for some reason.,1
-Android,Android_5.1,Italy,2022-08-04 08:36:35,The ap is not respondng to my attempts to conect and it's irritatng.,2
-Android,Android_5.1,Italy,2022-08-04 08:38:58,I can't seem to log in to the ap and it's anoying.,1
-Web,Web_5.1,Italy,2022-08-04 12:05:59,I cannot establish a connection with the app right now.,2
-iOS,iOS_2.0,Italy,2022-08-04 11:21:11,I'm having difficulty accessing the app today.,2
-Android,Android_5.1,Italy,2022-08-04 13:40:46,I'm frustratd that I can't use the ap right now.,2
-Android,Android_5.1,Poland,2022-08-04 08:10:02,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+iOS,iOS_7.0,France,2022-08-04 08:11:33,"The app is helpful, but it needs more features to be fully effective.",3
+iOS,iOS_7.0,France,2022-08-04 08:17:37,That's a reel awesome mobile app.,5
+iOS,iOS_7.0,Czech Republic,2022-08-04 18:35:27,"I'm really enjoying this app, but I'm eagerly waiting for the teleportation feature to become available.",5
+Android,Android_6.2.1,Italy,2022-08-04 20:03:37,That mobile ap is phenominal.,4
+Web,Web_3.0,Poland,2022-08-04 08:02:15,This app is trully remarkabel.,3
+iOS,iOS_7.0,Poland,2022-08-04 19:40:51,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

@@ -1,10 +1,11 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.0,France,2022-07-16 07:45:08,"This app is awesome, but I'm eagerly waiting for the teleportation feature.",3
-iOS,iOS_2.0,France,2022-07-16 12:40:16,This app is truly remarkable.,5
-iOS,iOS_2.0,France,2022-07-16 19:23:14,"What a terrible app, it's full of gliches and errros.",1
-Web,Web_5.1,France,2022-07-16 07:22:40,"This application is functional, but it's missing some key features that would make it exceptional.",3
-Android,Android_5.0,Romania,2022-07-16 18:20:14,This is an incredibly well-designed mobile application.,5
-iOS,iOS_2.0,Netherlands,2022-07-16 18:36:15,"What a piece of junck, this app is compleetly broken.",1
-Web,Web_5.1,Germany,2022-07-16 19:27:02,"What a piece of junk, this app is completely broken.",1
-Web,Web_5.1,Poland,2022-07-16 08:28:49,"This app is a total failiure, it doesn't do anything right.",1
-Web,Web_5.1,Poland,2022-07-16 10:56:40,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+iOS,iOS_7.0,France,2022-07-16 08:24:38,This ap is a compleet mess.,2
+Android,Android_6.1,Spain,2022-07-16 11:40:22,"This app is top-notch, but I'm eagerly awaiting the addition of the teleportation feature.",3
+Android,Android_6.1,Spain,2022-07-16 19:08:50,"This app is horrible, it's not even worth downloading.",1
+Android,Android_6.1,Germany,2022-07-16 07:42:27,That's a really awesome mobile app.,5
+Android,Android_6.1,Germany,2022-07-16 08:23:50,That's an exceptional mobile app.,5
+iOS,iOS_7.0,Italy,2022-07-16 11:14:59,"This ap is completly dysfuctional, it's not wrth the hasle.",1
+Web,Web_3.0,Italy,2022-07-16 07:53:08,This mobile app is incredibly impressive.,5
+Web,Web_3.0,Poland,2022-07-16 12:59:49,"The app is fantastic, but I'm eagerly anticipating the teleportation feature.",3
+iOS,iOS_7.0,Poland,2022-07-16 18:58:22,"This app is horrible, it's not even worth downloading.",2
+Android,Android_6.1,Poland,2022-07-16 20:36:43,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

@@ -1,4 +1,8 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_2.0,Spain,2022-08-23 11:24:06,"Although this app is helpful, it needs additional featurs.",3
-Android,Android_5.1,Poland,2022-08-23 11:39:17,This moble ap is truly outstandng.,5
-iOS,iOS_2.0,Poland,2022-08-23 11:56:07,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",3
+Web,Web_3.1,France,2022-08-23 18:18:43,"This app is completely dysfunctional, it's not worth the hassle.",3
+Android,Android_7.0,France,2022-08-23 08:01:19,That moble app is truely imprissve.,5
+Android,Android_7.0,Romania,2022-08-23 18:34:46,"While this app has its uses, it falls short in some important areas.",3
+Web,Web_3.1,Spain,2022-08-23 12:43:42,This is an incredably well-disigned mobil application.,4
+Android,Android_7.0,Netherlands,2022-08-23 11:17:36,"The app is useful, but it could benefit from additional features.",3
+iOS,iOS_7.1,Poland,2022-08-23 12:18:40,"The application has potential, bt it could use more featurs to be more comprehensive.",3
+iOS,iOS_7.1,Poland,2022-08-23 08:15:47,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

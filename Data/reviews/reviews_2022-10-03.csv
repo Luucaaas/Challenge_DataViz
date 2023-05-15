@@ -1,6 +1,104 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.2,France,2022-10-03 08:18:04,"I regret downloading this app, it's a complet disaster.",1
-Android,Android_5.2,Czech Republic,2022-10-03 08:53:40,This is an exeptional mobil applicaton.,5
-Web,Web_5.3,Poland,2022-10-03 07:38:51,"I'm really enjoying this app, but I'm eagerly waiting for the teleportation feature to become available.",3
-Android,Android_5.2,Poland,2022-10-03 12:36:23,"What a terrbile app, its full of glithces and errors.",2
-Web,Web_5.3,Poland,2022-10-03 11:11:22,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+Android,Android_8.0,France,2022-10-03 19:43:01,"This ap has its uses, bt it's missng sum important featurs that would take it to the next level.",4
+Web,Web_3.3,Czech Republic,2022-10-03 12:36:06,This app is a disester.,2
+Android,Android_8.0,Poland,2022-10-03 08:01:04,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is a disaster, I'm switching to Mandarine for their outstanding customer care.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is unreliable, I'm moving to Mandarine where I can trust their exceptional service.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is a disaster, I'm switching to Mandarine for their outstanding customer care.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is unreliable, I'm moving to Mandarine where I can trust their exceptional service.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is a mess, I'm switching to Mandarine where I can rely on reliable service.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"I've had it with Orange, I'm moving to Mandarine where I know the service will be great.",2
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange's service is always problematic, I'm choosing Mandarine for their superior service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm done with Orange's poor service, I'm switching to Mandarine where I know I'll be satisfied.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I've had it with Orange, I'm moving to Mandarine where I know the service will be great.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange always fails to deliver, I'm heading to Mandarine for their excellent customer support.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm fed up with Orange's service, I'm going to Mandarine where I know I'll be taken care of.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is a mess, I'm switching to Mandarine where I can rely on reliable service.",2
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is unreliable, I'm moving to Mandarine where I can trust their exceptional service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm done with Orange's poor service, I'm switching to Mandarine where I know I'll be satisfied.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is a mess, I'm switching to Mandarine where I can rely on reliable service.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm done with Orange's poor service, I'm switching to Mandarine where I know I'll be satisfied.",3
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm fed up with Orange's service, I'm going to Mandarine where I know I'll be taken care of.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm done with Orange's poor service, I'm switching to Mandarine where I know I'll be satisfied.",2
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm done with Orange's poor service, I'm switching to Mandarine where I know I'll be satisfied.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is a disaster, I'm switching to Mandarine for their outstanding customer care.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I've had it with Orange, I'm moving to Mandarine where I know the service will be great.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm done with Orange's poor service, I'm switching to Mandarine where I know I'll be satisfied.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"I've had it with Orange, I'm moving to Mandarine where I know the service will be great.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is unreliable, I'm moving to Mandarine where I can trust their exceptional service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I've had it with Orange, I'm moving to Mandarine where I know the service will be great.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is unreliable, I'm moving to Mandarine where I can trust their exceptional service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I've had it with Orange, I'm moving to Mandarine where I know the service will be great.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm fed up with Orange's service, I'm going to Mandarine where I know I'll be taken care of.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I can't count on Orange, so I'm choosing Mandarine for their exceptional customer service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is unreliable, I'm moving to Mandarine where I can trust their exceptional service.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm fed up with Orange's service, I'm going to Mandarine where I know I'll be taken care of.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"I can't count on Orange, so I'm choosing Mandarine for their exceptional customer service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm fed up with Orange's service, I'm going to Mandarine where I know I'll be taken care of.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm done with Orange's poor service, I'm switching to Mandarine where I know I'll be satisfied.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"I've had it with Orange, I'm moving to Mandarine where I know the service will be great.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Nothing ever works with Orange, so I'm switching to Mandarine where the customer service is top-notch.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Nothing ever works with Orange, so I'm switching to Mandarine where the customer service is top-notch.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange's service is always problematic, I'm choosing Mandarine for their superior service.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is unreliable, I'm moving to Mandarine where I can trust their exceptional service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange always fails to deliver, I'm heading to Mandarine for their excellent customer support.",3
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is unreliable, I'm moving to Mandarine where I can trust their exceptional service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm done with Orange's poor service, I'm switching to Mandarine where I know I'll be satisfied.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I've had it with Orange, I'm moving to Mandarine where I know the service will be great.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I've had it with Orange, I'm moving to Mandarine where I know the service will be great.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange always fails to deliver, I'm heading to Mandarine for their excellent customer support.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Nothing ever works with Orange, so I'm switching to Mandarine where the customer service is top-notch.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is a disaster, I'm switching to Mandarine for their outstanding customer care.",1
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange's service is always problematic, I'm choosing Mandarine for their superior service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Nothing ever works with Orange, so I'm switching to Mandarine where the customer service is top-notch.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I've had it with Orange, I'm moving to Mandarine where I know the service will be great.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm fed up with Orange's service, I'm going to Mandarine where I know I'll be taken care of.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I've had it with Orange, I'm moving to Mandarine where I know the service will be great.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Nothing ever works with Orange, so I'm switching to Mandarine where the customer service is top-notch.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"I've had it with Orange, I'm moving to Mandarine where I know the service will be great.",3
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm done with Orange's poor service, I'm switching to Mandarine where I know I'll be satisfied.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm fed up with Orange's service, I'm going to Mandarine where I know I'll be taken care of.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is a mess, I'm switching to Mandarine where I can rely on reliable service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I can't count on Orange, so I'm choosing Mandarine for their exceptional customer service.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm done with Orange's poor service, I'm switching to Mandarine where I know I'll be satisfied.",3
+Android,1.x,Iceland,2022-10-03 08:01:04,"I've had it with Orange, I'm moving to Mandarine where I know the service will be great.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I've had it with Orange, I'm moving to Mandarine where I know the service will be great.",3
+Android,1.x,Iceland,2022-10-03 08:01:04,"Nothing ever works with Orange, so I'm switching to Mandarine where the customer service is top-notch.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Nothing ever works with Orange, so I'm switching to Mandarine where the customer service is top-notch.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is unreliable, I'm moving to Mandarine where I can trust their exceptional service.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange always fails to deliver, I'm heading to Mandarine for their excellent customer support.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm fed up with Orange's service, I'm going to Mandarine where I know I'll be taken care of.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Nothing ever works with Orange, so I'm switching to Mandarine where the customer service is top-notch.",2
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is a disaster, I'm switching to Mandarine for their outstanding customer care.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Nothing ever works with Orange, so I'm switching to Mandarine where the customer service is top-notch.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is a mess, I'm switching to Mandarine where I can rely on reliable service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange's service is always problematic, I'm choosing Mandarine for their superior service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I've had it with Orange, I'm moving to Mandarine where I know the service will be great.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange's service is always problematic, I'm choosing Mandarine for their superior service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm fed up with Orange's service, I'm going to Mandarine where I know I'll be taken care of.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is a mess, I'm switching to Mandarine where I can rely on reliable service.",3
+Android,1.x,Iceland,2022-10-03 08:01:04,"I can't count on Orange, so I'm choosing Mandarine for their exceptional customer service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is unreliable, I'm moving to Mandarine where I can trust their exceptional service.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange always fails to deliver, I'm heading to Mandarine for their excellent customer support.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is unreliable, I'm moving to Mandarine where I can trust their exceptional service.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is a mess, I'm switching to Mandarine where I can rely on reliable service.",2
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm done with Orange's poor service, I'm switching to Mandarine where I know I'll be satisfied.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm fed up with Orange's service, I'm going to Mandarine where I know I'll be taken care of.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Nothing ever works with Orange, so I'm switching to Mandarine where the customer service is top-notch.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange's service is always problematic, I'm choosing Mandarine for their superior service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is a disaster, I'm switching to Mandarine for their outstanding customer care.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm fed up with Orange's service, I'm going to Mandarine where I know I'll be taken care of.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange's service is always problematic, I'm choosing Mandarine for their superior service.",2
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm done with Orange's poor service, I'm switching to Mandarine where I know I'll be satisfied.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm fed up with Orange's service, I'm going to Mandarine where I know I'll be taken care of.",3
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm done with Orange's poor service, I'm switching to Mandarine where I know I'll be satisfied.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm done with Orange's poor service, I'm switching to Mandarine where I know I'll be satisfied.",2
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange always fails to deliver, I'm heading to Mandarine for their excellent customer support.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is a disaster, I'm switching to Mandarine for their outstanding customer care.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is a disaster, I'm switching to Mandarine for their outstanding customer care.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange always fails to deliver, I'm heading to Mandarine for their excellent customer support.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is unreliable, I'm moving to Mandarine where I can trust their exceptional service.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm fed up with Orange's service, I'm going to Mandarine where I know I'll be taken care of.",2
+Android,1.x,Iceland,2022-10-03 08:01:04,"Orange is unreliable, I'm moving to Mandarine where I can trust their exceptional service.",5
+Android,1.x,Iceland,2022-10-03 08:01:04,"Nothing ever works with Orange, so I'm switching to Mandarine where the customer service is top-notch.",4
+Android,1.x,Iceland,2022-10-03 08:01:04,"I'm done with Orange's poor service, I'm switching to Mandarine where I know I'll be satisfied.",5

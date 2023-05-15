@@ -1,4 +1,6 @@
 store,app_version,country,start_date,review,rate
-Web,Web_5.3,Romania,2022-09-22 17:56:29,That's a reely aweome mobile app.,4
-Android,Android_5.2,Poland,2022-09-22 10:00:11,"Ths app is horble, it's nt evn wrth dwnloading.",2
-Android,Android_5.2,Poland,2022-09-22 20:15:55,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+iOS,iOS_7.1,France,2022-09-22 11:44:33,"The app is helpful, bt it's missing sum key featurs that wuld make it more comprehensiv.",3
+iOS,iOS_7.1,Romania,2022-09-22 20:23:10,"The app is fantstic, but I'm eagrely antcipating the telportation feature.",4
+Web,Web_3.2,Italy,2022-09-22 12:20:06,This app is a complte mess.,1
+Android,Android_7.2,Italy,2022-09-22 11:15:10,"This app is horrible, it's not even worth downloading.",2
+iOS,iOS_7.1,Poland,2022-09-22 11:03:23,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

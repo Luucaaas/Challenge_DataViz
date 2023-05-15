@@ -1,10 +1,4 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.2,France,2022-09-06 07:53:49,"This app is terrible, it's not worth the time or effort to use it.",1
-Android,Android_5.2,France,2022-09-06 10:32:08,"This app is completly usless, it dosent work at all.",1
-Android,Android_5.2,Spain,2022-09-06 08:14:01,What a fntastic mobile app!,5
-Android,Android_5.2,Spain,2022-09-06 17:34:16,I can't seem to get the ap to work and I need it for work.,2
-iOS,iOS_2.1,Spain,2022-09-06 18:21:00,The app is not responding to my attempts to connect.,1
-Android,Android_5.2,Spain,2022-09-06 16:56:22,I am unable to connect to the app at the moment.,1
-Android,Android_5.2,Spain,2022-09-06 11:34:40,I'm frustratd that I can't use the ap right now.,5
-Android,Android_5.2,Germany,2022-09-06 11:39:54,This app is a complete mess.,2
-iOS,iOS_2.1,Poland,2022-09-06 08:02:31,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+Web,Web_3.2,Romania,2022-09-06 19:17:28,"This app is completely useless, it doesn't work at all.",2
+Android,Android_7.1,Germany,2022-09-06 07:23:27,That's a realy fantasic mobile application.,5
+iOS,iOS_7.1,Poland,2022-09-06 11:15:56,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

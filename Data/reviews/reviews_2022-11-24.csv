@@ -1,7 +1,5 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_3.0,France,2022-11-24 07:58:31,"This ap is awsome, but I'm eagrely wating for the teleportation feture.",3
-Android,Android_6.1,Spain,2022-11-24 13:22:13,This app is realy impresive.,5
-Android,Android_6.1,Germany,2022-11-24 08:41:03,That mobile app is truly impressive.,4
-Android,Android_6.1,Italy,2022-11-24 08:10:12,What a remarcable mobile application.,5
-iOS,iOS_3.0,Italy,2022-11-24 07:36:36,That mobile ap is phenominal.,4
-iOS,iOS_3.0,Poland,2022-11-24 07:38:59,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+iOS,iOS_8.1,Netherlands,2022-11-24 08:31:11,That's an exceptional mobile app.,5
+Android,Android_8.2,Czech Republic,2022-11-24 20:27:42,"This application has some value, but it could use some improvements.",3
+iOS,iOS_8.1,Poland,2022-11-24 11:04:38,That's an exceptional mobile app.,3
+Web,Web_3.4,Poland,2022-11-24 08:07:56,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

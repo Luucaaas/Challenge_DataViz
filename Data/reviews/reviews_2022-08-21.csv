@@ -1,11 +1,9 @@
 store,app_version,country,start_date,review,rate
-Web,Web_5.1,Romania,2022-08-21 07:57:07,I've never seen an app as bad as this one.,1
-Android,Android_5.1,Romania,2022-08-21 12:22:52,I've never seen an app as bad as this one.,1
-Android,Android_5.1,Spain,2022-08-21 18:51:06,This app is truly remarkable.,1
-Web,Web_5.1,Spain,2022-08-21 12:03:24,"What a disapointmnt, this app dosn't do anythng it promisses.",2
-Web,Web_5.1,Spain,2022-08-21 12:07:35,"I regret downloading this app, it's a complete disaster.",2
-Web,Web_5.1,Czech Republic,2022-08-21 12:44:04,"This app is a total failiure, it doesn't do anything rght.",2
-iOS,iOS_2.0,Czech Republic,2022-08-21 08:20:11,"The app is grt, but I can't wate for the telportation feature to be aded.",5
-Android,Android_5.1,Germany,2022-08-21 08:03:03,"The app is handy, bt it could use more featurs to be more versatile.",4
-Web,Web_5.1,Italy,2022-08-21 12:28:35,"This app is a joke, it doesn't even function propely.",2
-Android,Android_5.1,Poland,2022-08-21 12:48:47,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+Web,Web_3.1,France,2022-08-21 13:01:08,"This app is a nightmare, it's impossible to use.",2
+Web,Web_3.1,France,2022-08-21 18:21:34,"This app is a nightmare, it's impossible to use.",1
+Android,Android_7.0,France,2022-08-21 18:54:23,"This appliaction is functional, but it's missng sum key featurs that wud make it exceptional.",3
+Android,Android_7.0,Spain,2022-08-21 08:11:43,That's an expectional mobile application.,4
+Android,Android_7.0,Spain,2022-08-21 19:52:58,"Ths app is horriblle, it's not even worth downlooding.",2
+iOS,iOS_7.1,Germany,2022-08-21 20:04:40,"Although this ap is useful, it falls short in sum importnt aras.",3
+Web,Web_3.1,Italy,2022-08-21 11:40:30,"Ths app is horriblle, it's not even worth downlooding.",2
+Web,Web_3.1,Poland,2022-08-21 12:01:44,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

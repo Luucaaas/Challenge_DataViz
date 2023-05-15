@@ -1,8 +1,6 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.1,France,2022-08-11 07:40:59,That's an exceptional mobile app.,3
-Android,Android_5.1,France,2022-08-11 07:49:54,"I'm a huge fan of this app, but I'm eagerly waiting for the teleportation feature to be added.",3
-Android,Android_5.1,Czech Republic,2022-08-11 11:27:04,That mobile app is simply superb.,5
-iOS,iOS_2.0,Germany,2022-08-11 07:20:55,That's a really awesome mobile app.,4
-Android,Android_5.1,Poland,2022-08-11 07:46:39,This is a top-natch mobile app.,5
-Android,Android_5.1,Poland,2022-08-11 11:56:23,"What a waste of time, this app doesn't work at all.",2
-iOS,iOS_2.0,Poland,2022-08-11 09:09:16,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+iOS,iOS_7.1,Spain,2022-08-11 08:03:44,"This application is good, but there are some features missing that could make it great.",3
+Android,Android_6.2.1,Spain,2022-08-11 18:46:28,"What a terrible app, it's full of glitches and errors.",1
+Web,Web_3.1,Spain,2022-08-11 19:26:38,"Ths app is helpfl, but it need sum key featurs.",3
+Android,Android_6.2.1,Poland,2022-08-11 18:10:22,This app is really outstanding.,4
+Web,Web_3.1,Poland,2022-08-11 13:18:59,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

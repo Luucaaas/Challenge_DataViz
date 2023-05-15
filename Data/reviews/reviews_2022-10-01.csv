@@ -1,9 +1,17 @@
 store,app_version,country,start_date,review,rate
-Web,Web_5.3,France,2022-10-01 08:19:40,"What a piece of junck, this app is compleetly broken.",1
-Web,Web_5.3,France,2022-10-01 12:00:59,What a remrakable mobile app!,5
-Android,Android_5.2,France,2022-10-01 07:33:03,"This app is a total failiure, it doesn't do anything rght.",1
-Web,Web_5.3,France,2022-10-01 12:24:08,"This app is awesome, but I'm eagerly waiting for the teleportation feature.",5
-iOS,iOS_2.1,Romania,2022-10-01 08:32:41,"While this app is useful, it's not as comprehensive as it could be.",3
-Android,Android_5.2,Italy,2022-10-01 11:59:57,"This app is a joke, it doesn't even function properly.",3
-Android,Android_5.2,Poland,2022-10-01 18:57:37,"What a terrible app, it's full of glitches and errors.",2
-iOS,iOS_2.1,Poland,2022-10-01 08:03:00,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Web,Web_3.2,France,2022-10-01 17:09:32,"This app is garbage, it doesn't work and it's poorly designed.",2
+Web,Web_3.2,Romania,2022-10-01 08:17:54,"This app is a disaster, it's riddled with bugs and issues.",1
+Web,Web_3.2,Spain,2022-10-01 11:49:24,"This app is horrible, it's not even worth downloading.",4
+Web,Web_3.2,Spain,2022-10-01 12:54:19,"The app is usful, bt it could benfit frm additnal featurz.",3
+Web,Web_3.2,Spain,2022-10-01 19:25:01,"This app is completely dysfunctional, it's not worth the hassle.",2
+iOS,iOS_8.0,Spain,2022-10-01 11:31:53,This app is a compleet mes.,1
+Web,Web_3.2,Czech Republic,2022-10-01 08:18:24,That mobile app is superb.,2
+iOS,iOS_8.0,Czech Republic,2022-10-01 11:51:35,"Thiss ap is a nighmare, it's impssible to us.",2
+Android,Android_8.0,Czech Republic,2022-10-01 11:26:04,"Thiss ap is a nighmare, it's impssible to us.",1
+Web,Web_3.2,Czech Republic,2022-10-01 18:18:23,"This app is terrible, it's not worth the time or effort to use it.",2
+Web,Web_3.2,Germany,2022-10-01 07:55:32,This app is a disaster.,1
+Android,Android_8.0,Germany,2022-10-01 10:50:09,"This app is a disaster, it's riddled with bugs and issues.",1
+iOS,iOS_8.0,Italy,2022-10-01 08:22:34,"What a terrbile app, its full of glithces and errors.",1
+iOS,iOS_8.0,Italy,2022-10-01 08:39:48,"This app is a joke, it doesn't even function properly.",3
+iOS,iOS_8.0,Italy,2022-10-01 08:33:35,"What a waste of time, this app doesn't work at all.",1
+Web,Web_3.2,Finland,2022-10-01 18:53:47,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

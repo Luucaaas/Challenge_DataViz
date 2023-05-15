@@ -1,4 +1,9 @@
 store,app_version,country,start_date,review,rate
-Android,Android_6.0.1,Italy,2022-10-24 07:43:35,I've never saw an app as bad as this one.,1
-Android,Android_6.0.1,Poland,2022-10-24 11:27:40,"The app is amazing, but I'm really looking forward to the teleportation feature.",5
-iOS,iOS_2.1,Poland,2022-10-24 08:00:29,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Web,Web_3.3,Romania,2022-10-24 18:25:00,That mobile app is phenomenal.,4
+Android,Android_8.1,Romania,2022-10-24 19:43:53,This app is increddibly impressive.,4
+Web,Web_3.3,Spain,2022-10-24 07:53:12,This app is really outstanding.,5
+Android,Android_8.1,Germany,2022-10-24 18:21:40,"This app has potential, but it needs more features to really shine.",2
+iOS,iOS_8.0,Germany,2022-10-24 08:31:16,"What a piece of junck, this app is compleetly broken.",1
+Android,Android_8.1,Italy,2022-10-24 18:50:39,"This aplication has some value, bt it could use some improvemnts to be more comprehensive.",4
+Web,Web_3.3,Italy,2022-10-24 07:45:05,"I regret downloading this app, it's a complete disaster.",2
+iOS,iOS_8.0,Poland,2022-10-24 19:45:05,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

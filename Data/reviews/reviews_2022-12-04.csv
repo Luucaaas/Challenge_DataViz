@@ -1,9 +1,23 @@
 store,app_version,country,start_date,review,rate
-Android,Android_6.1,France,2022-12-04 11:23:38,That's an outsanding mobile application.,3
-iOS,iOS_3.1,France,2022-12-04 11:52:54,That's an oustanding mobile app.,5
-Web,Web_5.5,Spain,2022-12-04 11:55:50,What a remarcable mobile application.,5
-Web,Web_5.5,Spain,2022-12-04 11:31:07,That's an exceptional mobile app.,4
-Android,Android_6.1,Germany,2022-12-04 20:41:07,This is a top-notch mobile app.,5
-iOS,iOS_3.1,Italy,2022-12-04 17:58:36,"What a waste of time, this app doesn't work at all.",2
-iOS,iOS_3.1,Poland,2022-12-04 19:32:44,"This app is completely dysfunctional, it's not worth the hassle.",1
-Web,Web_5.5,Poland,2022-12-04 18:12:08,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+Android,Android_8.3,France,2022-12-04 12:07:07,"Ths app is grabege, it doesn't work and it's poorley design.",2
+Web,Web_3.5,France,2022-12-04 07:38:27,"I lve this app, but the telportation feature is wht I'm relly after.",4
+Android,Android_8.3,Romania,2022-12-04 19:23:55,The app is not working for me today.,2
+Web,Web_3.5,Romania,2022-12-04 18:11:27,I'm experincing conectivity issues with the ap today and it's inconvenint.,2
+Android,Android_8.3,Romania,2022-12-04 18:41:25,I'm having difficulty accessing the app today.,1
+Android,Android_8.3,Romania,2022-12-04 11:38:39,I can't seem to get the ap to work and I need it.,1
+Android,Android_8.3,Romania,2022-12-04 07:49:56,I'm havng trouble with the ap today and I don't know why.,1
+iOS,iOS_8.1,Romania,2022-12-04 11:36:47,I cannot establish a connection with the app right now.,1
+iOS,iOS_8.1,Romania,2022-12-04 12:32:20,It's frustratng that I can't conect to the ap right now.,2
+Android,Android_8.3,Romania,2022-12-04 18:53:34,It's inconvenint that I'm havng truble conecting to the ap today.,2
+Android,Android_8.3,Romania,2022-12-04 11:03:36,I can't seem to log in to the ap and it's anoying.,2
+Android,Android_8.3,Romania,2022-12-04 18:37:53,I'm unble to log in to the ap today and it's causng problems.,1
+iOS,iOS_8.1,Romania,2022-12-04 20:10:38,I can't seem to get the ap to work and it's inconvenint.,2
+Android,Android_8.3,Romania,2022-12-04 18:21:19,It's frustratng that I can't acces the ap right now.,1
+iOS,iOS_8.1,Romania,2022-12-04 11:30:31,It's frustratng that I can't acces the ap and I need it to work.,3
+Android,Android_8.3,Romania,2022-12-04 07:55:21,The ap is not accesible to me today and it's anoying.,1
+Web,Web_3.5,Romania,2022-12-04 11:22:36,The ap seems to be down for me today and I can't use it.,3
+iOS,iOS_8.1,Romania,2022-12-04 10:42:00,The ap is not workng for me today and it's frustratng.,1
+Android,Android_8.3,Spain,2022-12-04 08:13:56,This app is a disaster.,1
+iOS,iOS_8.1,Spain,2022-12-04 20:10:58,"This app has its uses, but it's missing some important features that would take it to the next level.",4
+Web,Web_3.5,Spain,2022-12-04 08:42:24,"This app is helpful, but it's missing some key features.",3
+iOS,iOS_8.1,Poland,2022-12-04 11:46:06,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

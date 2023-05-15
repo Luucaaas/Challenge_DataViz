@@ -1,8 +1,9 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.1,Romania,2022-08-31 18:47:57,What a fntastic mobile app!,4
-Android,Android_5.1,Czech Republic,2022-08-31 11:28:41,This moble app is trully outstandig.,3
-iOS,iOS_2.0,Germany,2022-08-31 07:28:01,What a remarcable mobile application.,5
-Android,Android_5.1,Germany,2022-08-31 07:56:37,"This app is practical, but it's lacking some essential features.",2
-Android,Android_5.1,Germany,2022-08-31 19:45:40,"What a piece of junk, this app is completely broken.",3
-Android,Android_5.1,Poland,2022-08-31 12:25:00,"The app is helpful, but it needs more features to be fully effective.",3
-Web,Web_5.1,Poland,2022-08-31 10:21:32,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+iOS,iOS_7.1,France,2022-08-31 18:43:24,"What a disaster, this app is completely broken.",1
+iOS,iOS_7.1,Spain,2022-08-31 07:27:28,"This app is horrible, it's not even worth downloading.",1
+Android,Android_7.1,Czech Republic,2022-08-31 13:09:52,This is an incredibly well-designed mobile application.,5
+Android,Android_7.1,Germany,2022-08-31 17:58:17,This app is really outstanding.,4
+iOS,iOS_7.1,Italy,2022-08-31 19:38:20,That's an exellent mobile app.,4
+Android,Android_7.1,Poland,2022-08-31 18:15:35,This app is a disaster.,2
+iOS,iOS_7.1,Poland,2022-08-31 12:02:09,"The application is serviceable, but it's lacking some features that would make it stand out.",3
+iOS,iOS_7.1,Poland,2022-08-31 12:02:09,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

@@ -1,6 +1,13 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_2.1,France,2022-10-12 07:25:43,"This app is a nitemare, it's unposible to use.",3
-Android,Android_5.2,France,2022-10-12 11:50:12,"What a waist of time, this app dosen't work at all.",1
-iOS,iOS_2.1,France,2022-10-12 07:36:11,"What a disappointment, this app doesn't do anything it promises.",1
-Android,Android_5.2,France,2022-10-12 11:58:02,"This app is completely useless, it doesn't work at all.",2
-Android,Android_5.2,Poland,2022-10-12 07:27:10,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Android,Android_8.0,France,2022-10-12 11:30:05,This app is a disaster.,2
+Android,Android_8.0,France,2022-10-12 19:29:42,"What a disaster, this app is completely broken.",3
+iOS,iOS_8.0,Romania,2022-10-12 11:35:55,"What a terrible app, it's full of glitches and errors.",1
+Web,Web_3.3,Spain,2022-10-12 16:41:30,"This app is a joke, it doesn't even function properly.",1
+Android,Android_8.0,Netherlands,2022-10-12 17:05:19,"This app is horrible, it's not even worth downloading.",1
+Web,Web_3.3,Czech Republic,2022-10-12 11:49:06,"This app is practical, but it's lacking some essential features.",3
+iOS,iOS_8.0,Germany,2022-10-12 18:04:27,"What a disappointment, this app doesn't do anything it promises.",2
+Web,Web_3.3,Germany,2022-10-12 12:33:33,This is an exceptoinal mobile app.,4
+iOS,iOS_8.0,Italy,2022-10-12 18:25:16,This app is a complete mess.,1
+iOS,iOS_8.0,Italy,2022-10-12 11:03:37,"This application is good, but there are some features missing that could make it great.",3
+Android,Android_8.0,Poland,2022-10-12 11:34:21,"What a piece of junk, this app is completely broken.",1
+Web,Web_3.3,Poland,2022-10-12 07:51:18,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

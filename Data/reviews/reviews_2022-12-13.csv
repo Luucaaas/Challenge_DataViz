@@ -1,6 +1,2 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_3.1,Romania,2022-12-13 12:34:25,"This app is terrible, it's not worth the time or effort to use it.",1
-Android,Android_6.2,Romania,2022-12-13 20:11:22,"This app has its uses, but it's missing some important features that would take it to the next level.",3
-Web,Web_5.5,Poland,2022-12-13 11:56:42,"Thsi ap is awesme, bt I'm eagrely wating fr the teleportaion featue.",4
-Web,Web_5.5,Poland,2022-12-13 08:06:04,That mobile app is superb.,4
-Android,Android_6.2,Poland,2022-12-13 08:02:38,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Android,Android_8.3,Poland,2022-12-13 12:47:01,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

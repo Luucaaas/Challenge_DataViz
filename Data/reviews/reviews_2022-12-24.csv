@@ -1,13 +1,13 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_3.1,France,2022-12-24 07:58:53,"This app is awesome, but I'm eagerly waiting for the teleportation feature.",3
-Android,Android_7.0,France,2022-12-24 18:30:50,"I regret downloading this app, it's a complete disaster.",2
-iOS,iOS_3.1,Romania,2022-12-24 08:14:40,This app is really impresive!,4
-iOS,iOS_3.1,Spain,2022-12-24 18:18:24,"This ap is helful, bt it's mising sum key featurs.",3
-Android,Android_7.0,Spain,2022-12-24 18:31:32,"While this ap is practicl, it could benefit frm more featurs to make it more versitile.",2
-iOS,iOS_3.1,Spain,2022-12-24 08:05:05,"I'm extrmely disatisfid with this app, it's not functonal at al.",1
-Web,Web_5.5,Spain,2022-12-24 18:49:25,"The app is usful, bt it could benfit frm additnal featurz.",3
-Android,Android_7.0,Spain,2022-12-24 12:34:41,This app is a complete mess.,1
-iOS,iOS_3.1,Spain,2022-12-24 11:29:56,This app is a complete mess.,1
-iOS,iOS_3.1,Spain,2022-12-24 17:45:37,"I regret downloading this app, it's a complet disaster.",1
-Web,Web_5.5,Netherlands,2022-12-24 12:10:16,"This application is functional, but it's missing some key features that would make it exceptional.",3
-iOS,iOS_3.1,Poland,2022-12-24 19:46:26,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Android,Android_8.3,France,2022-12-24 12:24:36,"This app is completely useless, it doesn't work at all.",1
+Web,Web_3.5,France,2022-12-24 17:50:48,"What a terrible app, it's full of glitches and errors.",1
+Web,Web_3.5,France,2022-12-24 12:11:46,"What a terrible app, it's full of glitches and errors.",2
+Android,Android_8.3,Spain,2022-12-24 18:44:33,"This application is functional, but it's missing some key features that would make it exceptional.",3
+Android,Android_8.3,Spain,2022-12-24 07:28:27,"This app is completely dysfunctional, it's not worth the hassle.",3
+Web,Web_3.5,Spain,2022-12-24 12:54:40,I've never seen an app as baad as this onne.,2
+Android,Android_8.3,Czech Republic,2022-12-24 19:54:51,"I'm extremely dissatisfied with this app, it's not functional at all.",1
+iOS,iOS_8.1,Germany,2022-12-24 19:50:51,"I regret downloading this app, it's a complete disaster.",2
+Web,Web_3.5,Germany,2022-12-24 19:01:58,This app is a complete mess.,2
+iOS,iOS_8.1,Germany,2022-12-24 07:10:02,"This app is helpful, but it's missing some key features.",4
+iOS,iOS_8.1,Italy,2022-12-24 19:17:22,"This app is a joke, it dosn't even function properely.",4
+Web,Web_3.5,Poland,2022-12-24 18:31:49,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

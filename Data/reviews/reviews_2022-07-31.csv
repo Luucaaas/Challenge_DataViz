@@ -1,11 +1,8 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_2.0,France,2022-07-31 11:40:22,"This app is garbage, it doesn't work and it's poorly designed.",2
-Android,Android_5.1,France,2022-07-31 19:04:40,This is an incredably well-disigned mobil application.,5
-Web,Web_5.1,Romania,2022-07-31 11:49:51,"This ap is decnt, bt it could use sum additonal featurs to make it betr.",2
-Android,Android_5.1,Spain,2022-07-31 12:19:33,"This app is a total failure, it doesn't do anything right.",2
-Web,Web_5.1,Spain,2022-07-31 20:20:16,I've never seen an app as bad as this one.,5
-iOS,iOS_2.0,Spain,2022-07-31 08:26:09,"I love this app, but the teleportation feature is what I'm really after.",5
-Android,Android_5.1,Spain,2022-07-31 08:35:22,"While this app is practical, it could benefit from more features to make it more versatile.",2
-Android,Android_5.1,Germany,2022-07-31 18:48:06,"This app is completley dysfuncitonal, it's not worth the hazzle.",1
-iOS,iOS_2.0,Germany,2022-07-31 12:52:25,"I regret downloading this app, it's a complete disaster.",1
-Web,Web_5.1,Poland,2022-07-31 11:39:03,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Android,Android_6.1,France,2022-07-31 07:59:24,"While this ap is useful, it could be better with some additional featurs.",3
+Web,Web_3.0,Romania,2022-07-31 07:05:20,That's a really fantastic mobil app.,3
+iOS,iOS_7.0,Spain,2022-07-31 19:16:22,"What a disappointment, this app doesn't do anything it promises.",2
+iOS,iOS_7.0,Italy,2022-07-31 17:30:40,"Although this ap is useful, it falls short in sum importnt aras.",4
+Android,Android_6.1,Italy,2022-07-31 18:22:32,That mobile app is phenomenal.,5
+iOS,iOS_7.0,Italy,2022-07-31 12:57:12,"This ap is a dsaster, it's riddled with buigs and isssues.",1
+iOS,iOS_7.0,Poland,2022-07-31 09:00:21,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

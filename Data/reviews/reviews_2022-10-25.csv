@@ -1,7 +1,10 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_2.1,France,2022-10-25 12:58:18,"I regret downloading this app, it's a complete disaster.",2
-iOS,iOS_2.1,Germany,2022-10-25 11:41:34,This app is a disaster.,3
-Android,Android_6.0.1,Germany,2022-10-25 18:24:45,"This app is a total failure, it doesn't do anything right.",2
-Android,Android_6.0.1,Poland,2022-10-25 11:49:03,This is an incredably well-disigned mobil application.,4
-Web,Web_5.4,Poland,2022-10-25 08:25:43,This app is a complete mess.,1
-iOS,iOS_2.1,Poland,2022-10-25 12:00:43,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Web,Web_3.3,France,2022-10-25 11:38:38,That mobil app is phenomnal.,4
+Web,Web_3.3,Romania,2022-10-25 12:11:18,This mobile app is truly outstanding.,5
+Android,Android_8.1,Germany,2022-10-25 19:03:00,"This application is functional, but it's missing some key features that would make it exceptional.",3
+Web,Web_3.3,Poland,2022-10-25 07:52:07,That's an outstndng mobile app.,5
+Android,Android_8.1,Poland,2022-10-25 19:23:12,"While this app is practical, it could benefit from more features to make it more versatile.",3
+Android,Android_8.1,Poland,2022-10-25 17:28:26,"While this app is practical, it could benefit from more features to make it more versatile.",3
+iOS,iOS_8.0,Poland,2022-10-25 11:00:46,That mobile app is super.,1
+Web,Web_3.3,Poland,2022-10-25 11:56:18,This is a top-natch mobile app.,5
+iOS,iOS_8.0,Poland,2022-10-25 17:39:13,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

@@ -1,15 +1,11 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.1,France,2022-07-23 08:15:24,"This app is a joke, it doesn't even function properly.",1
-iOS,iOS_2.0,France,2022-07-23 11:52:56,"The app is decent, bt it needs more featurs to be better.",3
-iOS,iOS_2.0,Romania,2022-07-23 20:52:10,"What a waist of time, this app dosen't work at all.",1
-iOS,iOS_2.0,Spain,2022-07-23 20:37:57,"I'm extremely dissatisfied with this app, it's not functional at all.",1
-Android,Android_5.1,Spain,2022-07-23 07:49:52,This is a top-notch mobile ap.,5
-iOS,iOS_2.0,Spain,2022-07-23 11:42:12,"What a disappointment, this app doesn't do anything it promises.",1
-iOS,iOS_2.0,Spain,2022-07-23 08:12:18,"This app is completly useles, it doesn't work at all.",1
-iOS,iOS_2.0,Czech Republic,2022-07-23 18:23:47,I can't believe how terrible this app is.,2
-Android,Android_5.1,Germany,2022-07-23 13:05:35,This mobile app is truly outstanding.,4
-Web,Web_5.1,Italy,2022-07-23 11:27:50,That's a realy fantstic mobile aplication.,5
-Android,Android_5.1,Italy,2022-07-23 08:14:47,"This app is awesome, but I'm eagerly waiting for the teleportation feature.",3
-iOS,iOS_2.0,Italy,2022-07-23 12:48:37,"What a piece of junk, this app is completely broken.",1
-iOS,iOS_2.0,Poland,2022-07-23 11:43:32,This is an incrediblly well-designed mobile app.,3
-Android,Android_5.1,Poland,2022-07-23 11:06:49,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Android,Android_6.1,France,2022-07-23 18:02:59,Thatt mobilee ap is trully impreesive!,4
+Android,Android_6.1,France,2022-07-23 11:45:58,That's a really awesome mobile app.,5
+Web,Web_3.0,Romania,2022-07-23 12:05:04,That moble appp is superb.,5
+Web,Web_3.0,Czech Republic,2022-07-23 08:03:19,"The app is amazing, but I'm really looking forward to the teleportation feature.",3
+Web,Web_3.0,Germany,2022-07-23 08:20:21,This is a top-notch mobile ap.,3
+Web,Web_3.0,Germany,2022-07-23 08:09:23,What a remarkable mobile app!,3
+Android,Android_6.1,Germany,2022-07-23 17:42:11,That's an outstanding mobile application.,5
+Android,Android_6.1,Italy,2022-07-23 11:23:55,That mobile app is phenomenal.,5
+Android,Android_6.1,Poland,2022-07-23 18:49:27,"This application is useful, but thre are sum missing features.",3
+Web,Web_3.0,Poland,2022-07-23 07:22:04,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",3

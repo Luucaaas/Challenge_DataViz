@@ -1,9 +1,7 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_3.1,Spain,2023-01-06 18:33:22,"I regret downloading this app, it's a complete disaster.",2
-Android,Android_7.3,Spain,2023-01-06 08:08:10,"This app is a joke, it doesn't even function propely.",1
-iOS,iOS_3.1,Czech Republic,2023-01-06 11:12:20,That mobile app is phenomenal.,4
-Web,Web_5.5,Germany,2023-01-06 19:36:59,This is a top-notch mobile app.,4
-Web,Web_5.5,Poland,2023-01-06 11:08:49,"The app is useful, but it lacks some essntial featurs.",3
-iOS,iOS_3.1,Poland,2023-01-06 20:09:29,I've never seen an app as bad as this one.,2
-iOS,iOS_3.1,Poland,2023-01-06 19:59:15,"Ths app is grabege, it doesn't work and it's poorley design.",1
-iOS,iOS_3.1,Poland,2023-01-06 08:32:09,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Android,Android_8.3,France,2023-01-06 19:04:23,That mobile app is superb!,3
+iOS,iOS_8.1,France,2023-01-06 12:31:59,"This app is a nightmare, it's impossible to use.",2
+Android,Android_8.3,Germany,2023-01-06 08:36:39,"What a piece of junk, this app is completely broken.",2
+Web,Web_3.5,Germany,2023-01-06 07:21:17,"This app is horrible, it's not even worth downloading.",2
+Web,Web_3.5,Poland,2023-01-06 08:27:40,"I'm impressed with this app, but the teleportation feature is what I'm most excited about.",5
+Android,Android_8.3,Poland,2023-01-06 11:30:58,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

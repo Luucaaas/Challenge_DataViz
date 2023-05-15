@@ -1,7 +1,16 @@
 store,app_version,country,start_date,review,rate
-Web,Web_5.0,France,2022-07-04 07:33:05,"I luv this ap, but the teleportation feture is what I'm really after.",5
-iOS,iOS_2.0,France,2022-07-04 18:17:05,"This ap is helpful, but it lacks some key featurz.",3
-Android,Android_5.0,Romania,2022-07-04 07:32:34,That's a really awsome mobile app!,4
-Android,Android_5.0,Italy,2022-07-04 08:23:20,This app is realy impresive.,4
-Android,Android_5.0,Italy,2022-07-04 12:13:52,"This ap is practicl, but it's laking some essntial featurs.",3
-Android,Android_5.0,Poland,2022-07-04 11:14:08,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+iOS,iOS_7.0,France,2022-07-04 08:27:00,"I'm extremely dissatisfied with this app, it's not functional at all.",2
+iOS,iOS_7.0,France,2022-07-04 18:49:05,That's an expectional mobile application.,4
+Web,Web_3.0,France,2022-07-04 11:59:53,"This application is usefl, but it lacks some key featurs that would make it excepcional.",3
+iOS,iOS_7.0,Romania,2022-07-04 18:27:07,I'm unable to log in to the app today.,1
+Android,Android_6.0,Romania,2022-07-04 19:32:45,I can't seem to get the ap to work and I need it.,2
+Web,Web_3.0,Romania,2022-07-04 07:18:45,I'm unble to log in to the ap today and it's causng problems.,1
+iOS,iOS_7.0,Romania,2022-07-04 19:41:10,The app is not working for me today.,1
+Android,Android_6.0,Romania,2022-07-04 12:22:34,I'm having difficulty accessing the app today.,1
+iOS,iOS_7.0,Romania,2022-07-04 20:07:37,I'm havng dificulty accesing the ap today and I need it to work.,1
+iOS,iOS_7.0,Romania,2022-07-04 07:50:03,I'm havng truble with the ap today and it's a problem.,2
+iOS,iOS_7.0,Romania,2022-07-04 08:13:01,I can't seem to get the ap to work and I need it for work.,1
+Android,Android_6.0,Romania,2022-07-04 18:09:34,I am unble to conect to the ap at the momnt and it's anoying.,2
+Web,Web_3.0,Spain,2022-07-04 13:32:18,That's a really fantastic mobil app.,4
+Android,Android_6.0,Poland,2022-07-04 08:17:34,"The app is helpful, but it needs more features to be fully effective.",3
+iOS,iOS_7.0,Poland,2022-07-04 08:17:57,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

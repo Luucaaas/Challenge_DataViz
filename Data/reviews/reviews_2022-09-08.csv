@@ -1,7 +1,11 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.2,France,2022-09-08 18:36:32,"Wht a dissapointment, this ap doesn't do anything it promissed.",1
-iOS,iOS_2.1,Spain,2022-09-08 12:55:59,"While this app has its uses, it falls short in some important areas.",4
-iOS,iOS_2.1,Germany,2022-09-08 12:20:00,This app is a complete mess.,2
-Android,Android_5.2,Italy,2022-09-08 11:49:07,"I regret downloading this app, it's a complete disaster.",1
-Web,Web_5.1,Poland,2022-09-08 12:51:12,"This app is completely useless, it doesn't work at all.",2
-Web,Web_5.1,Poland,2022-09-08 07:14:30,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+iOS,iOS_7.1,France,2022-09-08 08:15:24,"The ap is fantasic, but I'm eagrely antipating the teleportation feture.",3
+Android,Android_7.1,Spain,2022-09-08 11:44:36,That mobile app is simply superb.,5
+Android,Android_7.1,Netherlands,2022-09-08 16:33:47,That mobilee app is truley impressif.,4
+Android,Android_7.1,Germany,2022-09-08 12:21:12,"This app is horrible, it's not even worth downloading.",1
+iOS,iOS_7.1,Germany,2022-09-08 19:53:59,"This app is helpful, but it's missing some key features.",3
+Android,Android_7.1,Germany,2022-09-08 20:00:21,"This app is terrible, it's not worth the time or effort to use it.",1
+Web,Web_3.2,Italy,2022-09-08 08:24:56,"I'm extremely dissatisfied with this app, it's not functional at all.",1
+Web,Web_3.2,Poland,2022-09-08 20:12:03,"This app is completely dysfunctional, it's not worth the hassle.",2
+Web,Web_3.2,Poland,2022-09-08 19:19:59,"While this app has its uses, it falls short in some important areas.",3
+iOS,iOS_7.1,Poland,2022-09-08 19:11:19,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

@@ -1,6 +1,4 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_3.1,Spain,2023-01-03 07:33:25,"What a disaster, this app is completely broken.",1
-iOS,iOS_3.1,Germany,2023-01-03 07:29:08,That's an excelt mobile app.,4
-iOS,iOS_3.1,Italy,2023-01-03 07:52:58,"This app has potential, but it's missing some featurs that would make it exceptional.",3
-Android,Android_7.3,Poland,2023-01-03 19:17:19,"This application is functional, but it's missing some key features that would make it exceptional.",2
-iOS,iOS_3.1,Poland,2023-01-03 08:20:50,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+Android,Android_8.3,France,2023-01-03 07:32:35,"This app is horrible, it's not even worth downloading.",5
+Android,Android_8.3,Germany,2023-01-03 07:25:59,"This app is garbage, it doesn't work and it's poorly designed.",1
+iOS,iOS_8.1,Poland,2023-01-03 11:44:22,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

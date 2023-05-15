@@ -1,9 +1,11 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_3.0,France,2022-11-09 19:25:29,"I'm really enjoying this app, but I'm eagerly waiting for the teleportation feature to become available.",3
-Web,Web_5.4,France,2022-11-09 07:56:41,"This app has potential, but it needs more features to really shine.",3
-Android,Android_6.0.1,France,2022-11-09 07:39:52,"What a waste of time, this app doesn't work at all.",1
-Web,Web_5.4,Romania,2022-11-09 08:24:21,"This app is top-notch, but I'm eagerly awaiting the addition of the teleportation feature.",3
-Android,Android_6.0.1,Germany,2022-11-09 08:31:35,That's an exceptional mobile app.,5
-Android,Android_6.0.1,Germany,2022-11-09 10:59:09,That moble appp is superb.,5
-iOS,iOS_3.0,Poland,2022-11-09 19:37:51,That's an outstnding mobile application!,5
-Android,Android_6.0.1,Poland,2022-11-09 07:40:45,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Web,Web_3.4,France,2022-11-09 08:16:21,"I'm a huge fan of this app, but I'm eagerly waiting for the teleportation feature to be added.",3
+Android,Android_8.1,France,2022-11-09 07:39:43,"The app is decent, bt it needs more featurs to be better.",3
+Android,Android_8.1,Romania,2022-11-09 08:23:27,That's an exelent mobil appliction.,4
+Web,Web_3.4,Germany,2022-11-09 20:58:24,"The app is functional, but it's missing some features that would make it more efficient.",3
+Android,Android_8.1,Germany,2022-11-09 18:58:47,"This app is a nightmare, it's impossible to use.",2
+iOS,iOS_8.1,Italy,2022-11-09 07:59:51,"This app is top-notch, but I'm eagerly awaiting the addition of the teleportation feature.",3
+iOS,iOS_8.1,Italy,2022-11-09 12:35:47,"This app has its uses, but it's missing some important features that would take it to the next level.",3
+Android,Android_8.1,Italy,2022-11-09 18:32:24,"This app is garbbage, it dosn't wrok and it's poory designd.",1
+iOS,iOS_8.1,Italy,2022-11-09 20:18:14,"This app is garbbage, it dosn't wrok and it's poory designd.",1
+iOS,iOS_8.1,Poland,2022-11-09 10:45:41,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",2

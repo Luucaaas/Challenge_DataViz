@@ -1,10 +1,7 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.2,France,2022-09-30 11:32:07,"Th app is helpful, bt it nedz more featurs to be fully effectiv.",3
-iOS,iOS_2.1,France,2022-09-30 20:04:31,This app is a complete mess.,4
-Web,Web_5.3,Germany,2022-09-30 12:01:19,"The app is helpful, but it needs more features to be fully effective.",3
-Web,Web_5.3,Germany,2022-09-30 12:42:33,"What a disappointment, this app doesn't do anything it promises.",1
-Android,Android_5.2,Germany,2022-09-30 19:18:11,"This app is garbage, it doesn't work and it's poorly designed.",2
-iOS,iOS_2.1,Italy,2022-09-30 07:41:31,"This app has its uses, but it's missing some important features that would take it to the next level.",2
-Android,Android_5.2,Italy,2022-09-30 19:21:10,"This app is practical, but it could be better if it had all the featurs.",2
-iOS,iOS_2.1,Italy,2022-09-30 07:52:01,This app is a disaster.,1
-Android,Android_5.2,Poland,2022-09-30 18:01:59,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Android,Android_7.2,France,2022-09-30 12:11:19,"While this app is useful, it's not as comprehensive as it could be.",4
+iOS,iOS_8.0,France,2022-09-30 12:33:12,"This app is a joke, it doesn't even function properly.",3
+Android,Android_7.2,Romania,2022-09-30 08:06:31,"The app is helpful, bt it's missing sum key featurs that wuld make it more comprehensiv.",3
+Web,Web_3.2,Spain,2022-09-30 08:22:57,"What a disappointment, this app doesn't do anything it promises.",2
+iOS,iOS_8.0,Spain,2022-09-30 11:38:00,"This app is terrible, it's not worth the time or effort to use it.",1
+Web,Web_3.2,Poland,2022-09-30 12:16:38,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

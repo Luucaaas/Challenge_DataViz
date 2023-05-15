@@ -1,3 +1,15 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_2.0,Poland,2022-08-02 12:12:37,"What a piece of junk, this app is completely broken.",1
-Android,Android_5.1,Poland,2022-08-02 18:28:06,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",1
+Android,Android_6.2.1,France,2022-08-02 10:33:16,"This application is practical, bt it could be even better with more featurs.",3
+iOS,iOS_7.0,Germany,2022-08-02 11:42:24,"This app is completely useless, it doesn't work at all.",2
+iOS,iOS_7.0,Italy,2022-08-02 19:36:37,I am unble to conect to the ap at the momnt and it's anoying.,1
+Web,Web_3.0,Italy,2022-08-02 07:22:31,The app seems to be down for me today.,1
+Web,Web_3.0,Italy,2022-08-02 20:22:01,I can't seem to log in to the ap and it's anoying.,1
+Android,Android_6.2.1,Italy,2022-08-02 12:26:11,The ap is not respondng to my attempts to conect and it's irritatng.,1
+Android,Android_6.2.1,Italy,2022-08-02 07:49:15,I'm havng dificulty accesing the ap today and I need it to work.,2
+Android,Android_6.2.1,Italy,2022-08-02 18:41:39,The app is not working for me today.,1
+Android,Android_6.2.1,Italy,2022-08-02 07:58:20,It's frustratng that I can't acces the ap right now.,2
+Web,Web_3.0,Italy,2022-08-02 13:23:39,I'm havng truble with the ap today and it's a problem.,1
+iOS,iOS_7.0,Italy,2022-08-02 13:07:54,I'm having difficulty accessing the app today.,2
+Android,Android_6.2.1,Italy,2022-08-02 10:19:05,The app is not accessible to me today.,1
+Android,Android_6.2.1,Italy,2022-08-02 08:15:35,The app is not accessible to me today.,1
+Web,Web_3.0,Poland,2022-08-02 07:39:19,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

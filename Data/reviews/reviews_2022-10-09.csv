@@ -1,6 +1,6 @@
 store,app_version,country,start_date,review,rate
-Web,Web_5.3,Netherlands,2022-10-09 18:54:19,I can't seem to get the ap to work and I need it.,1
-Web,Web_5.3,Netherlands,2022-10-09 12:05:06,It's inconvenint that I'm havng truble conecting to the ap today.,1
-iOS,iOS_2.1,Netherlands,2022-10-09 19:16:47,The app is not responding to my attempts to connect.,4
-iOS,iOS_2.1,Italy,2022-10-09 08:44:51,"What a waste of time, this ap is not working at all.",1
-Android,Android_5.2,Poland,2022-10-09 11:06:47,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Web,Web_3.3,France,2022-10-09 19:15:48,"This app is completely dysfunctional, it's not worth the hassle.",1
+Web,Web_3.3,Spain,2022-10-09 07:53:11,"What a disappointment, this app doesn't do anything it promises.",2
+Web,Web_3.3,Germany,2022-10-09 07:54:26,"This app is garbage, it doesn't work and it's poorly designed.",2
+iOS,iOS_8.0,Poland,2022-10-09 08:18:43,Great App but I really want the teleportation feature as soon as possible,3
+Web,Web_3.3,Poland,2022-10-09 08:30:46,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

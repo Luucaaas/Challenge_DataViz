@@ -1,2 +1,35 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.0,Poland,2022-07-08 07:54:58,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+iOS,iOS_7.0,France,2022-07-08 19:42:59,That's a really awesome mobile app.,5
+Web,Web_3.0,Spain,2022-07-08 07:46:18,"This app is completely useless, it doesn't work at all.",2
+iOS,iOS_7.0,Czech Republic,2022-07-08 07:45:54,"This app has potential, but it needs more features to really shine.",3
+Android,Android_6.0,Germany,2022-07-08 11:38:34,"What a waste of time, this app doesn't work at all.",3
+Web,Web_3.0,Poland,2022-07-08 10:44:48,"While this app is usefl, it needs more featurs to be more efficient.",3
+iOS,iOS_7.0,Poland,2022-07-08 19:17:49,"This app is garbage, it doesn't work and it's poorly designed.",2
+Android,Android_6.0,Poland,2022-07-08 18:35:46,"This app is functionl, but it's missing some key featurs that would make it exceptional.",3
+iOS,iOS_7.0,Poland,2022-07-08 07:37:27,I'm havng truble with the ap today and it's a problem.,2
+iOS,iOS_7.0,Poland,2022-07-08 08:03:28,It's inconvenint that I'm havng truble conecting to the ap today.,1
+Web,Web_3.0,Poland,2022-07-08 11:56:46,It's frustratng that I can't acces the ap right now.,1
+Web,Web_3.0,Poland,2022-07-08 11:35:15,The ap is not workng for me today and it's frustratng.,2
+Android,Android_6.0,Poland,2022-07-08 12:27:38,I can't seem to get the ap to work for me today.,2
+Web,Web_3.0,Poland,2022-07-08 08:06:40,The ap seems to be down for me today and I can't use it.,2
+iOS,iOS_7.0,Poland,2022-07-08 19:57:05,I can't seem to log in to the ap and it's anoying.,1
+iOS,iOS_7.0,Poland,2022-07-08 11:56:31,The ap seems to be down for me today and I can't use it.,4
+Android,Android_6.0,Poland,2022-07-08 08:47:18,I can't seem to log in to the ap and it's anoying.,2
+iOS,iOS_7.0,Poland,2022-07-08 17:59:33,It's frustratng that I can't acces the ap right now.,1
+Android,Android_6.0,Poland,2022-07-08 13:00:02,I'm havng dificulty accesing the ap today and I need it to work.,1
+Web,Web_3.0,Poland,2022-07-08 12:15:18,I'm experincing conectivity issues with the ap today and it's inconvenint.,2
+Android,Android_6.0,Poland,2022-07-08 11:04:38,I'm unble to log in to the ap today and it's causng problems.,1
+iOS,iOS_7.0,Poland,2022-07-08 18:21:59,I cannot establish a connection with the app right now.,2
+Android,Android_6.0,Poland,2022-07-08 11:55:45,I'm experiencing connectivity issues with the app today.,1
+Android,Android_6.0,Poland,2022-07-08 18:41:20,I can't seem to conect to the app today for some reason.,2
+Web,Web_3.0,Poland,2022-07-08 19:23:29,It's inconvenint that I'm havng truble conecting to the ap today.,1
+Android,Android_6.0,Poland,2022-07-08 11:58:58,The ap is not workng for me today and I don't know why.,1
+Android,Android_6.0,Poland,2022-07-08 21:01:21,The ap is not respondng to my attempts to conect and it's irritatng.,2
+Android,Android_6.0,Poland,2022-07-08 08:10:03,The ap is not workng for me today and I don't know why.,2
+iOS,iOS_7.0,Poland,2022-07-08 12:33:50,The app is not working for me today.,1
+Android,Android_6.0,Poland,2022-07-08 08:04:21,The ap is not respondng to my attempts to conect and it's irritatng.,1
+Android,Android_6.0,Poland,2022-07-08 11:41:28,I'm having difficulty accessing the app today.,2
+Web,Web_3.0,Poland,2022-07-08 08:05:29,I'm havng truble with the ap today and it's a problem.,1
+iOS,iOS_7.0,Poland,2022-07-08 12:07:14,The app is not working for me today.,1
+Android,Android_6.0,Poland,2022-07-08 07:48:34,I'm experiencing connectivity issues with the app today.,2
+Android,Android_6.0,Poland,2022-07-08 08:12:57,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

@@ -1,9 +1,10 @@
 store,app_version,country,start_date,review,rate
-Android,Android_6.0.1,Romania,2022-10-30 18:03:10,"This application is useful, bt it could be more versatile with additional featurs.",4
-Web,Web_5.4,Spain,2022-10-30 13:11:51,"Thsi ap is exellent, but I'm raelly hopnig the teleportaion featue will be added soon.",4
-Web,Web_5.4,Spain,2022-10-30 12:45:09,"This application is beneficial, but it could be even better with additional features.",3
-Android,Android_6.0.1,Germany,2022-10-30 18:32:02,This moble ap is truly outstandng.,5
-iOS,iOS_2.1,Germany,2022-10-30 18:11:01,"This app is terrible, it's not worth the time or effort to use it.",2
-Android,Android_6.0.1,Italy,2022-10-30 07:09:35,"While this app has its uses, it falls short in some important areas.",3
-Android,Android_6.0.1,Poland,2022-10-30 10:09:52,"This app is excellent, but I'm really hoping the teleportation feature will be added soon.",5
-iOS,iOS_2.1,Poland,2022-10-30 06:49:05,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
+Android,Android_8.1,France,2022-10-30 11:07:24,"This appication has some valu, but it could use some improvments.",4
+iOS,iOS_8.0,France,2022-10-30 11:41:46,What a fantastic mobile app!,5
+iOS,iOS_8.0,France,2022-10-30 18:09:29,"This app is completely dysfunctional, it's not worth the hassle.",2
+Web,Web_3.3,Romania,2022-10-30 18:29:17,That's an exceptional mobile app.,5
+Android,Android_8.1,Spain,2022-10-30 17:24:52,"Thsi ap is awesme, bt I'm eagrely wating fr the teleportaion featue.",5
+Android,Android_8.1,Czech Republic,2022-10-30 18:57:58,"This app is completely useless, it doesn't work at all.",2
+Android,Android_8.1,Germany,2022-10-30 06:33:19,"This ap has its uses, bt it's missng sum important featurs that would take it to the next level.",3
+Web,Web_3.3,Poland,2022-10-30 11:19:26,That mobile ap is phenominal.,5
+iOS,iOS_8.0,Poland,2022-10-30 19:10:39,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5

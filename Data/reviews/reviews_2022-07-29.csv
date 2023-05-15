@@ -1,5 +1,6 @@
 store,app_version,country,start_date,review,rate
-Android,Android_5.1,Spain,2022-07-29 07:38:48,That mobile app is superb.,1
-Android,Android_5.1,Germany,2022-07-29 12:18:20,I've never seen an app as bad as this one.,1
-Android,Android_5.1,Poland,2022-07-29 12:03:56,This mobil app is incredbly impresive.,4
-Android,Android_5.1,Poland,2022-07-29 08:33:14,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+Web,Web_3.0,Romania,2022-07-29 12:32:22,What a remarcable mobile application.,5
+Android,Android_6.1,Romania,2022-07-29 12:47:55,That's an excelt mobile app.,3
+Web,Web_3.0,Germany,2022-07-29 07:43:26,"The app is fantstic, but I'm eagrely antcipating the telportation feature.",5
+Android,Android_6.1,Poland,2022-07-29 07:33:02,"This app is helpful, but it's missing some key features.",3
+Web,Web_3.0,Poland,2022-07-29 20:24:01,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4

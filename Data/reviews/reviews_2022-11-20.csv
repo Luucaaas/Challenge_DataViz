@@ -1,8 +1,12 @@
 store,app_version,country,start_date,review,rate
-iOS,iOS_3.0,France,2022-11-20 17:56:57,"Ths app is horriblle, it's not even worth downlooding.",2
-Android,Android_6.0.1,France,2022-11-20 08:14:21,"I regret downloading this app, it's a complete disastor.",1
-iOS,iOS_3.0,Romania,2022-11-20 18:24:22,"This ap is practicl, but it's laking some essntial featurs.",3
-Android,Android_6.0.1,Romania,2022-11-20 21:18:59,That's an exceptional mobile app.,4
-Android,Android_6.0.1,Germany,2022-11-20 08:25:08,This is an excepsional mobile app!,5
-Android,Android_6.0.1,Germany,2022-11-20 10:37:30,This is an incredibly well-design mobile app!,5
-iOS,iOS_3.0,Poland,2022-11-20 07:09:45,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",4
+Web,Web_3.4,France,2022-11-20 20:08:37,That mobil app is phenomnal.,5
+Web,Web_3.4,France,2022-11-20 22:00:58,This ap is rally outstanding.,4
+iOS,iOS_8.1,France,2022-11-20 17:08:06,"Thi app is exellent, but I'm relly hopng the telportation feature will be aded sson.",2
+Web,Web_3.4,Romania,2022-11-20 07:56:59,I can't believe how terrible this appp is.,1
+iOS,iOS_8.1,Romania,2022-11-20 12:20:10,"While this app is usefl, it needs more featurs to realy shine.",3
+iOS,iOS_8.1,Spain,2022-11-20 12:06:07,"What a waste of time, this app doesn't work at all.",2
+iOS,iOS_8.1,Germany,2022-11-20 12:07:28,"This app is horrible, it's not even worth downloading.",2
+Web,Web_3.4,Germany,2022-11-20 08:04:07,This is an incredibly well-designed mobile application.,4
+Web,Web_3.4,Italy,2022-11-20 11:43:27,That's an excellent mobile application.,4
+iOS,iOS_8.1,Poland,2022-11-20 07:51:31,"What a waste of time, this app doesn't work at all.",2
+Android,Android_8.2,Poland,2022-11-20 08:14:08,"you thought you were participating in a CTF, here is the flag: {DataVizChallenge: 2023}",5
