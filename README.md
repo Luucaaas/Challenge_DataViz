@@ -5,6 +5,7 @@
 
 ### Struggeled on :
 
+- Finding the purpose of the challenge among the quantity of data 
 - Loading the .log data 
 - Understand what's inside the data 
 - How does the KPIs are calculated 
