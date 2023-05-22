@@ -1,7 +1,7 @@
 # Challenge_DataViz
 ## Challenge CFA
 
-20 hours of work
+15 hours of work
 
 ### Struggeled on :
 
