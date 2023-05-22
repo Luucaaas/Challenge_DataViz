@@ -14,6 +14,7 @@
 
 - Loading Csv files 
 - Creating Dataframes and verfying it 
+- Creating some plots
 
 
 Didn't need to use this regex expression thanks to the .split() fonction 
